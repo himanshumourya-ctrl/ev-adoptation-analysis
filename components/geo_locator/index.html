@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Geo Locator</title>
+    <style>
+      html, body {
+        margin: 0;
+        min-height: 52px;
+        height: 100%;
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+        background: transparent;
+      }
+      body {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: center;
+        padding: 0.1rem 0;
+        box-sizing: border-box;
+      }
+      .btn-container {
+        display: inline-flex;
+        align-items: center;
+        gap: 10px;
+        flex-wrap: wrap;
+      }
+      .locator-btn {
+        display: inline-flex;
+        align-items: center;
+        gap: 6px;
+        padding: 0.65rem 1.15rem;
+        border-radius: 8px;
+        border: 1px solid #0d9488;
+        background: #0d9488;
+        color: #ffffff;
+        font-weight: 600;
+        font-size: 0.92rem;
+        cursor: pointer;
+        transition: all 0.2s ease;
+        box-shadow: 0 1px 3px rgba(13, 148, 136, 0.25);
+      }
+      .locator-btn:hover {
+        background: #0f766e;
+        border-color: #0f766e;
+      }
+      .locator-btn:disabled {
+        background: #94a3b8;
+        border-color: #94a3b8;
+        cursor: not-allowed;
+      }
+      .status-badge {
+        font-size: 0.85rem;
+        color: #475569;
+        font-weight: 500;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="btn-container">
+      <button id="locateButton" class="locator-btn">
+        <span>📍</span> <span id="btnText">Use my current location</span>
+      </button>
+      <span id="statusText" class="status-badge"></span>
+    </div>
+
+    <script src="./streamlit-component-lib.js"></script>
+    <script>
+      function sendParentMessage(type, payload = {}) {
+        if (window.parent && window.parent.postMessage) {
+          window.parent.postMessage({ type, ...payload }, '*');
+        }
+      }
+
+      function sendValue(value) {
+        if (window.Streamlit && window.Streamlit.setComponentValue) {
+          window.Streamlit.setComponentValue(value);
+        }
+        sendParentMessage('streamlit:setComponentValue', { value });
+        sendParentMessage('streamlit:componentValue', { value });
+      }
+
+      async function fetchIpLocationFallback(originalError) {
+        const btn = document.getElementById('locateButton');
+        const btnText = document.getElementById('btnText');
+        const statusText = document.getElementById('statusText');
+
+        if (statusText) statusText.textContent = 'GPS restricted, detecting network location…';
+
+        // Attempt 1: ipwho.is (CORS enabled, highly accurate in India)
+        try {
+          const res = await fetch('https://ipwho.is/');
+          const data = await res.json();
+          if (data && data.success && data.latitude && data.longitude) {
+            const cityName = data.city ? `${data.city}, ${data.region || ''}` : 'Detected Location';
+            sendValue({
+              lat: Number(data.latitude),
+              lon: Number(data.longitude),
+              latitude: Number(data.latitude),
+              longitude: Number(data.longitude),
+              city: cityName,
+              source: 'network_ip',
+              error: null,
+              status: 'success',
+            });
+            if (btn) btn.disabled = false;
+            if (btnText) btnText.textContent = `📍 Updated (${data.city || 'Network'})`;
+            if (statusText) statusText.textContent = `✓ Auto-detected near ${cityName}`;
+            return;
+          }
+        } catch (e) {
+          console.warn('IP fallback 1 failed:', e);
+        }
+
+        // Attempt 2: geojs.io
+        try {
+          const res = await fetch('https://get.geojs.io/v1/ip/geo.json');
+          const data = await res.json();
+          if (data && data.latitude && data.longitude) {
+            const lat = parseFloat(data.latitude);
+            const lon = parseFloat(data.longitude);
+            const cityName = data.city || data.region || 'Detected Location';
+            sendValue({
+              lat: lat,
+              lon: lon,
+              latitude: lat,
+              longitude: lon,
+              city: cityName,
+              source: 'network_ip',
+              error: null,
+              status: 'success',
+            });
+            if (btn) btn.disabled = false;
+            if (btnText) btnText.textContent = `📍 Updated (${cityName})`;
+            if (statusText) statusText.textContent = `✓ Auto-detected near ${cityName}`;
+            return;
+          }
+        } catch (e) {
+          console.warn('IP fallback 2 failed:', e);
+        }
+
+        // If both failed
+        sendValue({
+          lat: null,
+          lon: null,
+          latitude: null,
+          longitude: null,
+          error: originalError || 'Could not fetch device location. Please select your city.',
+          status: 'failed',
+        });
+        if (btn) btn.disabled = false;
+        if (btnText) btnText.textContent = 'Retry location';
+        if (statusText) statusText.textContent = '⚠️ Location unavailable. Select your city above.';
+      }
+
+      function requestLocation() {
+        const btn = document.getElementById('locateButton');
+        const btnText = document.getElementById('btnText');
+        const statusText = document.getElementById('statusText');
+
+        if (!btn) return;
+        btn.disabled = true;
+        if (btnText) btnText.textContent = 'Detecting location…';
+        if (statusText) statusText.textContent = 'Requesting browser location…';
+
+        if (!navigator.geolocation) {
+          fetchIpLocationFallback('Browser geolocation not supported.');
+          return;
+        }
+
+        // Use enableHighAccuracy: false first for fast laptop/desktop response
+        navigator.geolocation.getCurrentPosition(
+          function (position) {
+            const coords = position && position.coords ? position.coords : {};
+            const lat = coords.latitude ?? null;
+            const lon = coords.longitude ?? null;
+
+            if (lat !== null && lon !== null) {
+              sendValue({
+                lat: Number(lat),
+                lon: Number(lon),
+                latitude: Number(lat),
+                longitude: Number(lon),
+                accuracy: coords.accuracy ?? null,
+                city: 'Live Device Location',
+                source: 'device_gps',
+                error: null,
+                status: 'success',
+              });
+
+              if (btn) btn.disabled = false;
+              if (btnText) btnText.textContent = '📍 Location active';
+              if (statusText) statusText.textContent = `✓ Using live GPS (${lat.toFixed(3)}, ${lon.toFixed(3)})`;
+            } else {
+              fetchIpLocationFallback('Coordinates were empty.');
+            }
+          },
+          function (error) {
+            console.warn('Browser GPS prompt was denied or failed:', error.message);
+            fetchIpLocationFallback(error.message || 'Permission denied or timed out');
+          },
+          {
+            enableHighAccuracy: false,
+            timeout: 6000,
+            maximumAge: 300000,
+          }
+        );
+      }
+
+      function initializeComponent() {
+        if (window.Streamlit && window.Streamlit.setComponentReady) {
+          window.Streamlit.setComponentReady();
+        } else {
+          sendParentMessage('streamlit:componentReady', { apiVersion: 1 });
+        }
+
+        if (window.Streamlit && window.Streamlit.setFrameHeight) {
+          window.Streamlit.setFrameHeight(56);
+        } else {
+          sendParentMessage('streamlit:setFrameHeight', { height: 56 });
+        }
+
+        const button = document.getElementById('locateButton');
+        if (button) {
+          button.addEventListener('click', function () {
+            requestLocation();
+          });
+        }
+      }
+
+      if (document.readyState === 'interactive' || document.readyState === 'complete') {
+        initializeComponent();
+      } else {
+        document.addEventListener('DOMContentLoaded', initializeComponent);
+      }
+    </script>
+  </body>
+</html>

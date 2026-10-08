@@ -1,0 +1,651 @@
+User_ID,Vehicle_Make,Rating,Category,Feedback_Text,Sentiment,Verified_Owner,Date
+USR_1000,FORD,1,Battery & Reliability,Experienced an onboard charger inverter failure that required two weeks in the shop waiting on parts.,Negative,True,2021-12-14
+USR_1001,NISSAN,3,Price & Financial Value,"Higher upfront cost balanced out by low electricity rates, but tire wear is noticeable due to vehicle weight.",Neutral,True,2021-03-15
+USR_1002,KIA,5,Range Anxiety,Battery range exceeded my expectations on long highway road trips. Easily get 300+ miles.,Positive,True,2024-03-07
+USR_1003,HYUNDAI,1,Charging Infrastructure,Arrived at a highway charging plaza with 3 out of 4 stalls broken and a 45-minute queue.,Negative,False,2022-08-05
+USR_1004,VOLKSWAGEN,4,Range Anxiety,"Range is acceptable in city conditions, but highway speeds drain the battery much faster than rated.",Neutral,True,2022-10-01
+USR_1005,FORD,5,Driving Performance & Tech,Over-the-air software updates continue to add valuable navigation and battery preconditioning features.,Positive,True,2022-04-11
+USR_1006,RIVIAN,1,Price & Financial Value,Insurance premiums and tire replacement costs are notably higher than my previous gas car.,Negative,False,2023-12-27
+USR_1007,VOLKSWAGEN,4,Charging Infrastructure,The fast charging network has expanded tremendously. Plug and charge works seamlessly.,Positive,True,2023-07-06
+USR_1008,FORD,2,Price & Financial Value,Insurance premiums and tire replacement costs are notably higher than my previous gas car.,Negative,True,2021-08-04
+USR_1009,TESLA,3,Charging Infrastructure,"Plenty of slow destination chargers, but high-speed 150kW+ chargers are lacking along state highways.",Neutral,False,2021-01-25
+USR_1010,KIA,2,Price & Financial Value,Insurance premiums and tire replacement costs are notably higher than my previous gas car.,Negative,True,2023-12-01
+USR_1011,NISSAN,3,Battery & Reliability,"Battery health is holding up fine, but 12V auxiliary battery needed premature replacement.",Neutral,True,2022-04-06
+USR_1012,TESLA,3,Driving Performance & Tech,"Great driving dynamics, but phone projection occasionally disconnects after firmware updates.",Neutral,True,2024-10-18
+USR_1013,CHEVROLET,3,Battery & Reliability,Noticed roughly 10% degradation in battery capacity within 2.5 years of ownership.,Negative,True,2024-03-19
+USR_1014,KIA,5,Charging Infrastructure,The fast charging network has expanded tremendously. Plug and charge works seamlessly.,Positive,True,2022-01-22
+USR_1015,VOLKSWAGEN,5,Driving Performance & Tech,Over-the-air software updates continue to add valuable navigation and battery preconditioning features.,Positive,True,2023-10-06
+USR_1016,NISSAN,4,Range Anxiety,Battery range exceeded my expectations on long highway road trips. Easily get 300+ miles.,Positive,False,2024-06-08
+USR_1017,FORD,5,Driving Performance & Tech,Over-the-air software updates continue to add valuable navigation and battery preconditioning features.,Positive,True,2022-10-09
+USR_1018,VOLKSWAGEN,4,Price & Financial Value,"Higher upfront cost balanced out by low electricity rates, but tire wear is noticeable due to vehicle weight.",Neutral,True,2021-09-01
+USR_1019,RIVIAN,2,Battery & Reliability,"Battery health is holding up fine, but 12V auxiliary battery needed premature replacement.",Neutral,True,2022-10-27
+USR_1020,FORD,3,Charging Infrastructure,Home Level 2 charging is an absolute game-changer. I wake up with a full tank every morning.,Positive,True,2021-01-18
+USR_1021,HYUNDAI,3,Driving Performance & Tech,"Great driving dynamics, but phone projection occasionally disconnects after firmware updates.",Neutral,True,2024-06-27
+USR_1022,TESLA,1,Charging Infrastructure,Public chargers frequently suffer from payment card reader failures and degraded charging speeds.,Negative,True,2024-01-22
+USR_1023,NISSAN,4,Range Anxiety,"Range drops around 20% during freezing winter months, but still plenty for my 50-mile daily commute.",Positive,True,2023-09-13
+USR_1024,KIA,4,Price & Financial Value,"Higher upfront cost balanced out by low electricity rates, but tire wear is noticeable due to vehicle weight.",Neutral,True,2023-10-17
+USR_1025,NISSAN,4,Battery & Reliability,Almost zero maintenance needed besides cabin air filter and wiper fluid. Very reliable.,Positive,False,2022-12-23
+USR_1026,HYUNDAI,3,Charging Infrastructure,"Plenty of slow destination chargers, but high-speed 150kW+ chargers are lacking along state highways.",Neutral,False,2023-07-06
+USR_1027,VOLKSWAGEN,3,Charging Infrastructure,Public chargers frequently suffer from payment card reader failures and degraded charging speeds.,Negative,True,2023-03-01
+USR_1028,KIA,4,Price & Financial Value,Federal and state clean vehicle tax incentives made this EV cheaper upfront than a gas equivalent.,Positive,True,2022-12-14
+USR_1029,TESLA,5,Battery & Reliability,Almost zero maintenance needed besides cabin air filter and wiper fluid. Very reliable.,Positive,True,2024-07-21
+USR_1030,VOLKSWAGEN,5,Range Anxiety,"Range drops around 20% during freezing winter months, but still plenty for my 50-mile daily commute.",Positive,True,2021-06-25
+USR_1031,NISSAN,4,Price & Financial Value,Federal and state clean vehicle tax incentives made this EV cheaper upfront than a gas equivalent.,Positive,True,2021-03-12
+USR_1032,KIA,5,Driving Performance & Tech,Instant torque and single-pedal driving make this the best driving vehicle I have ever owned.,Positive,True,2024-10-23
+USR_1033,TESLA,4,Price & Financial Value,"Higher upfront cost balanced out by low electricity rates, but tire wear is noticeable due to vehicle weight.",Neutral,True,2024-12-06
+USR_1034,HYUNDAI,5,Driving Performance & Tech,Instant torque and single-pedal driving make this the best driving vehicle I have ever owned.,Positive,True,2022-11-15
+USR_1035,KIA,1,Range Anxiety,Constant anxiety when driving across rural corridors where no fast chargers are present.,Negative,True,2024-10-11
+USR_1036,NISSAN,2,Driving Performance & Tech,Touchscreen lag and lack of tactile climate control buttons are distracting and irritating.,Negative,True,2022-10-23
+USR_1037,TESLA,3,Charging Infrastructure,"Plenty of slow destination chargers, but high-speed 150kW+ chargers are lacking along state highways.",Neutral,True,2022-06-13
+USR_1038,NISSAN,3,Price & Financial Value,Federal and state clean vehicle tax incentives made this EV cheaper upfront than a gas equivalent.,Positive,False,2023-04-09
+USR_1039,RIVIAN,1,Charging Infrastructure,Arrived at a highway charging plaza with 3 out of 4 stalls broken and a 45-minute queue.,Negative,False,2023-06-15
+USR_1040,NISSAN,5,Battery & Reliability,"After 60,000 miles, battery degradation is under 3%. Extremely impressed with thermal management.",Positive,False,2022-04-10
+USR_1041,HYUNDAI,3,Price & Financial Value,"Higher upfront cost balanced out by low electricity rates, but tire wear is noticeable due to vehicle weight.",Neutral,True,2022-03-25
+USR_1042,NISSAN,2,Price & Financial Value,Initial purchase price is still too premium for mass adoption without government subsidies.,Negative,True,2023-05-07
+USR_1043,CHEVROLET,2,Driving Performance & Tech,"Great driving dynamics, but phone projection occasionally disconnects after firmware updates.",Neutral,True,2024-06-05
+USR_1044,VOLKSWAGEN,5,Driving Performance & Tech,Instant torque and single-pedal driving make this the best driving vehicle I have ever owned.,Positive,True,2021-12-24
+USR_1045,NISSAN,4,Battery & Reliability,Almost zero maintenance needed besides cabin air filter and wiper fluid. Very reliable.,Positive,True,2024-04-02
+USR_1046,RIVIAN,4,Battery & Reliability,"After 60,000 miles, battery degradation is under 3%. Extremely impressed with thermal management.",Positive,True,2024-01-03
+USR_1047,NISSAN,5,Range Anxiety,Battery range exceeded my expectations on long highway road trips. Easily get 300+ miles.,Positive,True,2024-05-19
+USR_1048,RIVIAN,3,Range Anxiety,"Range is acceptable in city conditions, but highway speeds drain the battery much faster than rated.",Neutral,True,2022-01-23
+USR_1049,HYUNDAI,1,Price & Financial Value,Initial purchase price is still too premium for mass adoption without government subsidies.,Negative,True,2024-07-28
+USR_1050,VOLKSWAGEN,2,Price & Financial Value,Initial purchase price is still too premium for mass adoption without government subsidies.,Negative,True,2024-04-26
+USR_1051,FORD,3,Driving Performance & Tech,"Whisper quiet cabin, low center of gravity, and effortless acceleration.",Positive,True,2023-10-17
+USR_1052,NISSAN,1,Battery & Reliability,Experienced an onboard charger inverter failure that required two weeks in the shop waiting on parts.,Negative,True,2022-03-25
+USR_1053,KIA,5,Charging Infrastructure,Home Level 2 charging is an absolute game-changer. I wake up with a full tank every morning.,Positive,True,2021-07-01
+USR_1054,TESLA,5,Driving Performance & Tech,Over-the-air software updates continue to add valuable navigation and battery preconditioning features.,Positive,False,2024-03-12
+USR_1055,NISSAN,2,Charging Infrastructure,Arrived at a highway charging plaza with 3 out of 4 stalls broken and a 45-minute queue.,Negative,True,2022-02-05
+USR_1056,CHEVROLET,3,Price & Financial Value,Federal and state clean vehicle tax incentives made this EV cheaper upfront than a gas equivalent.,Positive,True,2021-09-02
+USR_1057,TESLA,4,Charging Infrastructure,"Plenty of slow destination chargers, but high-speed 150kW+ chargers are lacking along state highways.",Neutral,False,2021-05-15
+USR_1058,FORD,5,Range Anxiety,Battery range exceeded my expectations on long highway road trips. Easily get 300+ miles.,Positive,False,2024-06-10
+USR_1059,FORD,3,Charging Infrastructure,Public chargers frequently suffer from payment card reader failures and degraded charging speeds.,Negative,True,2021-10-13
+USR_1060,RIVIAN,4,Charging Infrastructure,Home Level 2 charging is an absolute game-changer. I wake up with a full tank every morning.,Positive,False,2022-08-25
+USR_1061,KIA,4,Driving Performance & Tech,"Whisper quiet cabin, low center of gravity, and effortless acceleration.",Positive,True,2024-10-25
+USR_1062,TESLA,4,Price & Financial Value,Federal and state clean vehicle tax incentives made this EV cheaper upfront than a gas equivalent.,Positive,False,2022-02-05
+USR_1063,KIA,5,Driving Performance & Tech,Over-the-air software updates continue to add valuable navigation and battery preconditioning features.,Positive,False,2024-08-05
+USR_1064,NISSAN,5,Charging Infrastructure,Home Level 2 charging is an absolute game-changer. I wake up with a full tank every morning.,Positive,True,2024-11-11
+USR_1065,FORD,5,Range Anxiety,Battery range exceeded my expectations on long highway road trips. Easily get 300+ miles.,Positive,False,2021-01-20
+USR_1066,HYUNDAI,4,Price & Financial Value,"Saved over $2,400 in gasoline and oil changes in my first year alone! Extremely cost effective.",Positive,False,2024-04-15
+USR_1067,HYUNDAI,5,Battery & Reliability,"After 60,000 miles, battery degradation is under 3%. Extremely impressed with thermal management.",Positive,True,2023-02-10
+USR_1068,HYUNDAI,1,Charging Infrastructure,Public chargers frequently suffer from payment card reader failures and degraded charging speeds.,Negative,True,2024-07-28
+USR_1069,RIVIAN,3,Charging Infrastructure,Public chargers frequently suffer from payment card reader failures and degraded charging speeds.,Negative,False,2024-03-15
+USR_1070,KIA,4,Price & Financial Value,"Higher upfront cost balanced out by low electricity rates, but tire wear is noticeable due to vehicle weight.",Neutral,False,2024-07-06
+USR_1071,NISSAN,1,Battery & Reliability,Experienced an onboard charger inverter failure that required two weeks in the shop waiting on parts.,Negative,False,2022-09-13
+USR_1072,KIA,2,Driving Performance & Tech,Touchscreen lag and lack of tactile climate control buttons are distracting and irritating.,Negative,False,2021-02-10
+USR_1073,VOLKSWAGEN,1,Range Anxiety,Constant anxiety when driving across rural corridors where no fast chargers are present.,Negative,True,2021-10-08
+USR_1074,KIA,4,Charging Infrastructure,The fast charging network has expanded tremendously. Plug and charge works seamlessly.,Positive,True,2023-05-19
+USR_1075,HYUNDAI,5,Battery & Reliability,"After 60,000 miles, battery degradation is under 3%. Extremely impressed with thermal management.",Positive,True,2022-02-20
+USR_1076,RIVIAN,5,Driving Performance & Tech,Instant torque and single-pedal driving make this the best driving vehicle I have ever owned.,Positive,False,2023-04-08
+USR_1077,NISSAN,4,Charging Infrastructure,Home Level 2 charging is an absolute game-changer. I wake up with a full tank every morning.,Positive,True,2023-03-08
+USR_1078,NISSAN,5,Price & Financial Value,Federal and state clean vehicle tax incentives made this EV cheaper upfront than a gas equivalent.,Positive,True,2021-06-10
+USR_1079,VOLKSWAGEN,3,Charging Infrastructure,"Plenty of slow destination chargers, but high-speed 150kW+ chargers are lacking along state highways.",Neutral,True,2023-03-24
+USR_1080,NISSAN,4,Range Anxiety,"Range drops around 20% during freezing winter months, but still plenty for my 50-mile daily commute.",Positive,False,2024-05-09
+USR_1081,RIVIAN,1,Battery & Reliability,Noticed roughly 10% degradation in battery capacity within 2.5 years of ownership.,Negative,True,2024-08-03
+USR_1082,KIA,2,Charging Infrastructure,"Plenty of slow destination chargers, but high-speed 150kW+ chargers are lacking along state highways.",Neutral,True,2023-09-20
+USR_1083,CHEVROLET,3,Price & Financial Value,"Higher upfront cost balanced out by low electricity rates, but tire wear is noticeable due to vehicle weight.",Neutral,True,2022-03-05
+USR_1084,CHEVROLET,5,Price & Financial Value,"Saved over $2,400 in gasoline and oil changes in my first year alone! Extremely cost effective.",Positive,True,2022-06-18
+USR_1085,NISSAN,1,Price & Financial Value,Insurance premiums and tire replacement costs are notably higher than my previous gas car.,Negative,True,2023-06-27
+USR_1086,RIVIAN,3,Battery & Reliability,Almost zero maintenance needed besides cabin air filter and wiper fluid. Very reliable.,Positive,True,2024-02-06
+USR_1087,HYUNDAI,2,Price & Financial Value,Initial purchase price is still too premium for mass adoption without government subsidies.,Negative,True,2023-10-23
+USR_1088,VOLKSWAGEN,1,Price & Financial Value,Insurance premiums and tire replacement costs are notably higher than my previous gas car.,Negative,False,2023-01-28
+USR_1089,CHEVROLET,5,Charging Infrastructure,Home Level 2 charging is an absolute game-changer. I wake up with a full tank every morning.,Positive,True,2022-03-24
+USR_1090,FORD,5,Driving Performance & Tech,"Whisper quiet cabin, low center of gravity, and effortless acceleration.",Positive,True,2024-03-03
+USR_1091,KIA,5,Battery & Reliability,"After 60,000 miles, battery degradation is under 3%. Extremely impressed with thermal management.",Positive,True,2024-10-04
+USR_1092,NISSAN,3,Driving Performance & Tech,"Whisper quiet cabin, low center of gravity, and effortless acceleration.",Positive,True,2023-10-16
+USR_1093,NISSAN,5,Charging Infrastructure,The fast charging network has expanded tremendously. Plug and charge works seamlessly.,Positive,True,2023-03-28
+USR_1094,FORD,3,Price & Financial Value,Federal and state clean vehicle tax incentives made this EV cheaper upfront than a gas equivalent.,Positive,True,2024-12-14
+USR_1095,RIVIAN,3,Price & Financial Value,"Higher upfront cost balanced out by low electricity rates, but tire wear is noticeable due to vehicle weight.",Neutral,False,2021-03-09
+USR_1096,KIA,5,Charging Infrastructure,Home Level 2 charging is an absolute game-changer. I wake up with a full tank every morning.,Positive,True,2024-07-22
+USR_1097,NISSAN,4,Driving Performance & Tech,"Whisper quiet cabin, low center of gravity, and effortless acceleration.",Positive,True,2022-11-19
+USR_1098,NISSAN,5,Charging Infrastructure,The fast charging network has expanded tremendously. Plug and charge works seamlessly.,Positive,True,2021-06-08
+USR_1099,TESLA,3,Range Anxiety,"Range is acceptable in city conditions, but highway speeds drain the battery much faster than rated.",Neutral,False,2022-06-09
+USR_1100,VOLKSWAGEN,1,Battery & Reliability,Experienced an onboard charger inverter failure that required two weeks in the shop waiting on parts.,Negative,True,2022-09-22
+USR_1101,HYUNDAI,3,Range Anxiety,"Range is acceptable in city conditions, but highway speeds drain the battery much faster than rated.",Neutral,False,2024-03-25
+USR_1102,CHEVROLET,1,Charging Infrastructure,Public chargers frequently suffer from payment card reader failures and degraded charging speeds.,Negative,True,2021-01-01
+USR_1103,VOLKSWAGEN,4,Range Anxiety,"Range drops around 20% during freezing winter months, but still plenty for my 50-mile daily commute.",Positive,True,2022-06-25
+USR_1104,FORD,3,Driving Performance & Tech,"Great driving dynamics, but phone projection occasionally disconnects after firmware updates.",Neutral,False,2022-02-23
+USR_1105,FORD,2,Price & Financial Value,Initial purchase price is still too premium for mass adoption without government subsidies.,Negative,True,2023-10-14
+USR_1106,VOLKSWAGEN,2,Battery & Reliability,Noticed roughly 10% degradation in battery capacity within 2.5 years of ownership.,Negative,True,2024-08-28
+USR_1107,HYUNDAI,4,Price & Financial Value,"Saved over $2,400 in gasoline and oil changes in my first year alone! Extremely cost effective.",Positive,True,2021-04-12
+USR_1108,KIA,4,Driving Performance & Tech,Instant torque and single-pedal driving make this the best driving vehicle I have ever owned.,Positive,True,2023-02-21
+USR_1109,NISSAN,3,Range Anxiety,"Range drops around 20% during freezing winter months, but still plenty for my 50-mile daily commute.",Positive,True,2023-05-03
+USR_1110,KIA,2,Price & Financial Value,"Higher upfront cost balanced out by low electricity rates, but tire wear is noticeable due to vehicle weight.",Neutral,False,2022-01-26
+USR_1111,TESLA,2,Price & Financial Value,Initial purchase price is still too premium for mass adoption without government subsidies.,Negative,True,2024-01-15
+USR_1112,RIVIAN,3,Battery & Reliability,Almost zero maintenance needed besides cabin air filter and wiper fluid. Very reliable.,Positive,False,2024-07-04
+USR_1113,KIA,5,Price & Financial Value,"Saved over $2,400 in gasoline and oil changes in my first year alone! Extremely cost effective.",Positive,True,2023-06-05
+USR_1114,RIVIAN,2,Price & Financial Value,Initial purchase price is still too premium for mass adoption without government subsidies.,Negative,True,2022-06-11
+USR_1115,CHEVROLET,4,Driving Performance & Tech,Instant torque and single-pedal driving make this the best driving vehicle I have ever owned.,Positive,True,2024-09-18
+USR_1116,CHEVROLET,2,Driving Performance & Tech,Touchscreen lag and lack of tactile climate control buttons are distracting and irritating.,Negative,True,2024-06-27
+USR_1117,HYUNDAI,3,Driving Performance & Tech,"Whisper quiet cabin, low center of gravity, and effortless acceleration.",Positive,True,2023-05-03
+USR_1118,VOLKSWAGEN,1,Battery & Reliability,Experienced an onboard charger inverter failure that required two weeks in the shop waiting on parts.,Negative,True,2021-06-27
+USR_1119,RIVIAN,4,Charging Infrastructure,"Plenty of slow destination chargers, but high-speed 150kW+ chargers are lacking along state highways.",Neutral,False,2021-10-22
+USR_1120,TESLA,1,Range Anxiety,Constant anxiety when driving across rural corridors where no fast chargers are present.,Negative,True,2024-01-03
+USR_1121,VOLKSWAGEN,2,Charging Infrastructure,"Plenty of slow destination chargers, but high-speed 150kW+ chargers are lacking along state highways.",Neutral,False,2022-09-16
+USR_1122,CHEVROLET,4,Battery & Reliability,Almost zero maintenance needed besides cabin air filter and wiper fluid. Very reliable.,Positive,True,2021-07-25
+USR_1123,HYUNDAI,2,Price & Financial Value,Initial purchase price is still too premium for mass adoption without government subsidies.,Negative,True,2023-06-21
+USR_1124,KIA,2,Range Anxiety,Winter range penalty is severe and makes road trips stressful with unexpected detours.,Negative,False,2022-11-02
+USR_1125,KIA,1,Range Anxiety,Winter range penalty is severe and makes road trips stressful with unexpected detours.,Negative,False,2023-05-21
+USR_1126,CHEVROLET,3,Range Anxiety,"Range is acceptable in city conditions, but highway speeds drain the battery much faster than rated.",Neutral,False,2022-01-04
+USR_1127,RIVIAN,1,Charging Infrastructure,Arrived at a highway charging plaza with 3 out of 4 stalls broken and a 45-minute queue.,Negative,True,2022-11-26
+USR_1128,HYUNDAI,5,Charging Infrastructure,The fast charging network has expanded tremendously. Plug and charge works seamlessly.,Positive,True,2023-11-21
+USR_1129,HYUNDAI,5,Range Anxiety,Battery range exceeded my expectations on long highway road trips. Easily get 300+ miles.,Positive,True,2024-10-17
+USR_1130,RIVIAN,5,Driving Performance & Tech,Over-the-air software updates continue to add valuable navigation and battery preconditioning features.,Positive,True,2024-11-17
+USR_1131,NISSAN,3,Charging Infrastructure,"Plenty of slow destination chargers, but high-speed 150kW+ chargers are lacking along state highways.",Neutral,True,2024-03-20
+USR_1132,CHEVROLET,1,Price & Financial Value,Insurance premiums and tire replacement costs are notably higher than my previous gas car.,Negative,True,2023-05-08
+USR_1133,FORD,4,Range Anxiety,"Range is acceptable in city conditions, but highway speeds drain the battery much faster than rated.",Neutral,True,2022-08-12
+USR_1134,NISSAN,4,Driving Performance & Tech,Instant torque and single-pedal driving make this the best driving vehicle I have ever owned.,Positive,True,2022-06-14
+USR_1135,TESLA,3,Battery & Reliability,Noticed roughly 10% degradation in battery capacity within 2.5 years of ownership.,Negative,True,2021-09-19
+USR_1136,CHEVROLET,4,Price & Financial Value,"Saved over $2,400 in gasoline and oil changes in my first year alone! Extremely cost effective.",Positive,True,2023-08-23
+USR_1137,NISSAN,2,Battery & Reliability,Noticed roughly 10% degradation in battery capacity within 2.5 years of ownership.,Negative,True,2023-10-20
+USR_1138,CHEVROLET,5,Driving Performance & Tech,Instant torque and single-pedal driving make this the best driving vehicle I have ever owned.,Positive,True,2024-04-20
+USR_1139,HYUNDAI,3,Price & Financial Value,"Higher upfront cost balanced out by low electricity rates, but tire wear is noticeable due to vehicle weight.",Neutral,True,2021-01-21
+USR_1140,VOLKSWAGEN,4,Price & Financial Value,Federal and state clean vehicle tax incentives made this EV cheaper upfront than a gas equivalent.,Positive,True,2021-09-13
+USR_1141,CHEVROLET,5,Driving Performance & Tech,Over-the-air software updates continue to add valuable navigation and battery preconditioning features.,Positive,True,2022-10-03
+USR_1142,FORD,5,Battery & Reliability,"After 60,000 miles, battery degradation is under 3%. Extremely impressed with thermal management.",Positive,True,2024-11-15
+USR_1143,NISSAN,2,Range Anxiety,Winter range penalty is severe and makes road trips stressful with unexpected detours.,Negative,True,2021-11-10
+USR_1144,FORD,2,Price & Financial Value,"Higher upfront cost balanced out by low electricity rates, but tire wear is noticeable due to vehicle weight.",Neutral,True,2021-10-22
+USR_1145,TESLA,4,Price & Financial Value,"Saved over $2,400 in gasoline and oil changes in my first year alone! Extremely cost effective.",Positive,True,2023-02-23
+USR_1146,NISSAN,2,Driving Performance & Tech,Touchscreen lag and lack of tactile climate control buttons are distracting and irritating.,Negative,True,2022-03-10
+USR_1147,NISSAN,4,Charging Infrastructure,Home Level 2 charging is an absolute game-changer. I wake up with a full tank every morning.,Positive,True,2021-07-01
+USR_1148,CHEVROLET,5,Driving Performance & Tech,Over-the-air software updates continue to add valuable navigation and battery preconditioning features.,Positive,False,2023-01-06
+USR_1149,NISSAN,2,Price & Financial Value,Insurance premiums and tire replacement costs are notably higher than my previous gas car.,Negative,True,2023-11-18
+USR_1150,TESLA,4,Range Anxiety,"Range drops around 20% during freezing winter months, but still plenty for my 50-mile daily commute.",Positive,True,2023-12-19
+USR_1151,RIVIAN,5,Price & Financial Value,Federal and state clean vehicle tax incentives made this EV cheaper upfront than a gas equivalent.,Positive,True,2021-07-09
+USR_1152,RIVIAN,4,Driving Performance & Tech,Instant torque and single-pedal driving make this the best driving vehicle I have ever owned.,Positive,True,2024-05-10
+USR_1153,NISSAN,3,Battery & Reliability,Noticed roughly 10% degradation in battery capacity within 2.5 years of ownership.,Negative,False,2023-06-23
+USR_1154,FORD,5,Range Anxiety,Battery range exceeded my expectations on long highway road trips. Easily get 300+ miles.,Positive,False,2023-01-13
+USR_1155,HYUNDAI,4,Driving Performance & Tech,"Whisper quiet cabin, low center of gravity, and effortless acceleration.",Positive,True,2023-11-15
+USR_1156,NISSAN,5,Driving Performance & Tech,"Whisper quiet cabin, low center of gravity, and effortless acceleration.",Positive,False,2022-05-05
+USR_1157,CHEVROLET,4,Battery & Reliability,Almost zero maintenance needed besides cabin air filter and wiper fluid. Very reliable.,Positive,True,2022-07-18
+USR_1158,CHEVROLET,3,Battery & Reliability,Almost zero maintenance needed besides cabin air filter and wiper fluid. Very reliable.,Positive,True,2022-12-05
+USR_1159,KIA,2,Battery & Reliability,Noticed roughly 10% degradation in battery capacity within 2.5 years of ownership.,Negative,True,2022-09-03
+USR_1160,CHEVROLET,4,Range Anxiety,"Range drops around 20% during freezing winter months, but still plenty for my 50-mile daily commute.",Positive,True,2021-12-21
+USR_1161,TESLA,5,Driving Performance & Tech,Over-the-air software updates continue to add valuable navigation and battery preconditioning features.,Positive,True,2024-02-17
+USR_1162,KIA,3,Charging Infrastructure,Public chargers frequently suffer from payment card reader failures and degraded charging speeds.,Negative,True,2023-04-28
+USR_1163,NISSAN,1,Range Anxiety,Constant anxiety when driving across rural corridors where no fast chargers are present.,Negative,False,2021-05-03
+USR_1164,KIA,4,Charging Infrastructure,Home Level 2 charging is an absolute game-changer. I wake up with a full tank every morning.,Positive,True,2022-12-25
+USR_1165,KIA,4,Battery & Reliability,Almost zero maintenance needed besides cabin air filter and wiper fluid. Very reliable.,Positive,True,2024-01-02
+USR_1166,NISSAN,2,Driving Performance & Tech,Touchscreen lag and lack of tactile climate control buttons are distracting and irritating.,Negative,True,2023-03-13
+USR_1167,HYUNDAI,2,Battery & Reliability,Noticed roughly 10% degradation in battery capacity within 2.5 years of ownership.,Negative,False,2024-09-21
+USR_1168,KIA,5,Battery & Reliability,Almost zero maintenance needed besides cabin air filter and wiper fluid. Very reliable.,Positive,True,2021-02-09
+USR_1169,NISSAN,3,Battery & Reliability,Almost zero maintenance needed besides cabin air filter and wiper fluid. Very reliable.,Positive,True,2022-01-14
+USR_1170,HYUNDAI,5,Charging Infrastructure,Home Level 2 charging is an absolute game-changer. I wake up with a full tank every morning.,Positive,True,2022-07-18
+USR_1171,VOLKSWAGEN,3,Charging Infrastructure,Home Level 2 charging is an absolute game-changer. I wake up with a full tank every morning.,Positive,True,2023-12-06
+USR_1172,NISSAN,2,Range Anxiety,Winter range penalty is severe and makes road trips stressful with unexpected detours.,Negative,False,2024-12-23
+USR_1173,NISSAN,4,Range Anxiety,"Range drops around 20% during freezing winter months, but still plenty for my 50-mile daily commute.",Positive,True,2024-11-28
+USR_1174,NISSAN,1,Price & Financial Value,Insurance premiums and tire replacement costs are notably higher than my previous gas car.,Negative,False,2022-09-12
+USR_1175,KIA,5,Price & Financial Value,"Saved over $2,400 in gasoline and oil changes in my first year alone! Extremely cost effective.",Positive,True,2021-12-27
+USR_1176,NISSAN,4,Price & Financial Value,"Saved over $2,400 in gasoline and oil changes in my first year alone! Extremely cost effective.",Positive,False,2021-05-11
+USR_1177,TESLA,2,Range Anxiety,Constant anxiety when driving across rural corridors where no fast chargers are present.,Negative,False,2024-11-12
+USR_1178,TESLA,3,Driving Performance & Tech,Touchscreen lag and lack of tactile climate control buttons are distracting and irritating.,Negative,False,2024-02-10
+USR_1179,VOLKSWAGEN,4,Charging Infrastructure,Home Level 2 charging is an absolute game-changer. I wake up with a full tank every morning.,Positive,True,2024-02-12
+USR_1180,FORD,4,Price & Financial Value,"Saved over $2,400 in gasoline and oil changes in my first year alone! Extremely cost effective.",Positive,True,2022-05-22
+USR_1181,FORD,2,Price & Financial Value,"Higher upfront cost balanced out by low electricity rates, but tire wear is noticeable due to vehicle weight.",Neutral,True,2022-02-03
+USR_1182,TESLA,5,Driving Performance & Tech,Instant torque and single-pedal driving make this the best driving vehicle I have ever owned.,Positive,True,2021-09-24
+USR_1183,RIVIAN,4,Battery & Reliability,"After 60,000 miles, battery degradation is under 3%. Extremely impressed with thermal management.",Positive,False,2022-10-10
+USR_1184,VOLKSWAGEN,3,Charging Infrastructure,Home Level 2 charging is an absolute game-changer. I wake up with a full tank every morning.,Positive,False,2021-08-18
+USR_1185,NISSAN,4,Battery & Reliability,Almost zero maintenance needed besides cabin air filter and wiper fluid. Very reliable.,Positive,True,2021-02-20
+USR_1186,CHEVROLET,3,Driving Performance & Tech,"Whisper quiet cabin, low center of gravity, and effortless acceleration.",Positive,True,2023-10-05
+USR_1187,NISSAN,1,Price & Financial Value,Insurance premiums and tire replacement costs are notably higher than my previous gas car.,Negative,True,2024-04-22
+USR_1188,KIA,5,Driving Performance & Tech,Over-the-air software updates continue to add valuable navigation and battery preconditioning features.,Positive,False,2022-09-26
+USR_1189,TESLA,5,Price & Financial Value,Federal and state clean vehicle tax incentives made this EV cheaper upfront than a gas equivalent.,Positive,True,2023-01-12
+USR_1190,NISSAN,1,Battery & Reliability,Noticed roughly 10% degradation in battery capacity within 2.5 years of ownership.,Negative,True,2021-05-24
+USR_1191,KIA,2,Charging Infrastructure,"Plenty of slow destination chargers, but high-speed 150kW+ chargers are lacking along state highways.",Neutral,True,2023-08-13
+USR_1192,RIVIAN,3,Charging Infrastructure,Home Level 2 charging is an absolute game-changer. I wake up with a full tank every morning.,Positive,True,2022-06-27
+USR_1193,FORD,1,Price & Financial Value,Insurance premiums and tire replacement costs are notably higher than my previous gas car.,Negative,False,2021-10-07
+USR_1194,KIA,3,Range Anxiety,"Range is acceptable in city conditions, but highway speeds drain the battery much faster than rated.",Neutral,True,2024-12-11
+USR_1195,HYUNDAI,5,Driving Performance & Tech,Over-the-air software updates continue to add valuable navigation and battery preconditioning features.,Positive,False,2023-05-24
+USR_1196,KIA,4,Driving Performance & Tech,Over-the-air software updates continue to add valuable navigation and battery preconditioning features.,Positive,True,2023-03-13
+USR_1197,NISSAN,2,Charging Infrastructure,Public chargers frequently suffer from payment card reader failures and degraded charging speeds.,Negative,True,2024-05-15
+USR_1198,NISSAN,1,Charging Infrastructure,Arrived at a highway charging plaza with 3 out of 4 stalls broken and a 45-minute queue.,Negative,True,2023-11-05
+USR_1199,RIVIAN,2,Price & Financial Value,Initial purchase price is still too premium for mass adoption without government subsidies.,Negative,False,2021-05-15
+USR_1200,TESLA,5,Charging Infrastructure,The fast charging network has expanded tremendously. Plug and charge works seamlessly.,Positive,True,2023-12-27
+USR_1201,VOLKSWAGEN,1,Price & Financial Value,Initial purchase price is still too premium for mass adoption without government subsidies.,Negative,True,2024-03-01
+USR_1202,TESLA,5,Driving Performance & Tech,"Whisper quiet cabin, low center of gravity, and effortless acceleration.",Positive,True,2021-06-20
+USR_1203,FORD,5,Charging Infrastructure,The fast charging network has expanded tremendously. Plug and charge works seamlessly.,Positive,True,2023-05-22
+USR_1204,VOLKSWAGEN,5,Driving Performance & Tech,Instant torque and single-pedal driving make this the best driving vehicle I have ever owned.,Positive,True,2024-01-08
+USR_1205,FORD,5,Range Anxiety,Battery range exceeded my expectations on long highway road trips. Easily get 300+ miles.,Positive,True,2024-06-01
+USR_1206,FORD,2,Charging Infrastructure,Public chargers frequently suffer from payment card reader failures and degraded charging speeds.,Negative,True,2021-03-01
+USR_1207,TESLA,4,Range Anxiety,"Range is acceptable in city conditions, but highway speeds drain the battery much faster than rated.",Neutral,True,2021-08-05
+USR_1208,RIVIAN,3,Range Anxiety,Winter range penalty is severe and makes road trips stressful with unexpected detours.,Negative,False,2024-08-26
+USR_1209,NISSAN,1,Charging Infrastructure,Arrived at a highway charging plaza with 3 out of 4 stalls broken and a 45-minute queue.,Negative,True,2021-03-23
+USR_1210,RIVIAN,2,Range Anxiety,Winter range penalty is severe and makes road trips stressful with unexpected detours.,Negative,True,2023-02-21
+USR_1211,HYUNDAI,5,Driving Performance & Tech,Over-the-air software updates continue to add valuable navigation and battery preconditioning features.,Positive,True,2024-12-12
+USR_1212,CHEVROLET,3,Driving Performance & Tech,"Great driving dynamics, but phone projection occasionally disconnects after firmware updates.",Neutral,True,2021-04-08
+USR_1213,TESLA,5,Price & Financial Value,"Saved over $2,400 in gasoline and oil changes in my first year alone! Extremely cost effective.",Positive,False,2023-09-04
+USR_1214,RIVIAN,2,Battery & Reliability,Experienced an onboard charger inverter failure that required two weeks in the shop waiting on parts.,Negative,True,2022-11-09
+USR_1215,CHEVROLET,4,Battery & Reliability,Almost zero maintenance needed besides cabin air filter and wiper fluid. Very reliable.,Positive,True,2024-04-11
+USR_1216,TESLA,4,Charging Infrastructure,Home Level 2 charging is an absolute game-changer. I wake up with a full tank every morning.,Positive,False,2024-05-20
+USR_1217,KIA,1,Charging Infrastructure,Public chargers frequently suffer from payment card reader failures and degraded charging speeds.,Negative,True,2024-07-12
+USR_1218,TESLA,4,Driving Performance & Tech,"Whisper quiet cabin, low center of gravity, and effortless acceleration.",Positive,True,2022-06-21
+USR_1219,FORD,3,Battery & Reliability,"Battery health is holding up fine, but 12V auxiliary battery needed premature replacement.",Neutral,False,2024-05-13
+USR_1220,TESLA,1,Battery & Reliability,Noticed roughly 10% degradation in battery capacity within 2.5 years of ownership.,Negative,True,2024-05-13
+USR_1221,TESLA,3,Driving Performance & Tech,"Great driving dynamics, but phone projection occasionally disconnects after firmware updates.",Neutral,False,2022-10-03
+USR_1222,NISSAN,3,Range Anxiety,Winter range penalty is severe and makes road trips stressful with unexpected detours.,Negative,False,2024-07-26
+USR_1223,KIA,3,Range Anxiety,"Range is acceptable in city conditions, but highway speeds drain the battery much faster than rated.",Neutral,False,2022-08-06
+USR_1224,NISSAN,4,Range Anxiety,Battery range exceeded my expectations on long highway road trips. Easily get 300+ miles.,Positive,True,2021-12-12
+USR_1225,VOLKSWAGEN,3,Price & Financial Value,"Higher upfront cost balanced out by low electricity rates, but tire wear is noticeable due to vehicle weight.",Neutral,True,2021-06-13
+USR_1226,KIA,4,Range Anxiety,"Range is acceptable in city conditions, but highway speeds drain the battery much faster than rated.",Neutral,True,2024-02-01
+USR_1227,NISSAN,4,Driving Performance & Tech,"Whisper quiet cabin, low center of gravity, and effortless acceleration.",Positive,True,2022-05-16
+USR_1228,NISSAN,4,Price & Financial Value,Federal and state clean vehicle tax incentives made this EV cheaper upfront than a gas equivalent.,Positive,True,2021-12-16
+USR_1229,FORD,5,Charging Infrastructure,Home Level 2 charging is an absolute game-changer. I wake up with a full tank every morning.,Positive,True,2023-11-09
+USR_1230,KIA,5,Price & Financial Value,"Saved over $2,400 in gasoline and oil changes in my first year alone! Extremely cost effective.",Positive,True,2022-01-12
+USR_1231,VOLKSWAGEN,4,Charging Infrastructure,"Plenty of slow destination chargers, but high-speed 150kW+ chargers are lacking along state highways.",Neutral,True,2024-10-24
+USR_1232,VOLKSWAGEN,5,Driving Performance & Tech,Over-the-air software updates continue to add valuable navigation and battery preconditioning features.,Positive,True,2023-05-21
+USR_1233,HYUNDAI,4,Driving Performance & Tech,"Whisper quiet cabin, low center of gravity, and effortless acceleration.",Positive,True,2024-05-20
+USR_1234,RIVIAN,5,Driving Performance & Tech,Instant torque and single-pedal driving make this the best driving vehicle I have ever owned.,Positive,True,2023-02-01
+USR_1235,TESLA,4,Range Anxiety,"Range is acceptable in city conditions, but highway speeds drain the battery much faster than rated.",Neutral,True,2021-09-24
+USR_1236,HYUNDAI,4,Charging Infrastructure,"Plenty of slow destination chargers, but high-speed 150kW+ chargers are lacking along state highways.",Neutral,True,2023-04-27
+USR_1237,FORD,4,Range Anxiety,"Range drops around 20% during freezing winter months, but still plenty for my 50-mile daily commute.",Positive,True,2022-02-08
+USR_1238,CHEVROLET,5,Range Anxiety,Battery range exceeded my expectations on long highway road trips. Easily get 300+ miles.,Positive,True,2022-02-19
+USR_1239,CHEVROLET,2,Driving Performance & Tech,Touchscreen lag and lack of tactile climate control buttons are distracting and irritating.,Negative,True,2024-01-24
+USR_1240,TESLA,3,Range Anxiety,"Range is acceptable in city conditions, but highway speeds drain the battery much faster than rated.",Neutral,True,2022-02-22
+USR_1241,NISSAN,5,Price & Financial Value,Federal and state clean vehicle tax incentives made this EV cheaper upfront than a gas equivalent.,Positive,True,2023-05-21
+USR_1242,HYUNDAI,1,Range Anxiety,Constant anxiety when driving across rural corridors where no fast chargers are present.,Negative,True,2022-07-03
+USR_1243,KIA,2,Price & Financial Value,"Higher upfront cost balanced out by low electricity rates, but tire wear is noticeable due to vehicle weight.",Neutral,True,2024-02-20
+USR_1244,KIA,2,Charging Infrastructure,Public chargers frequently suffer from payment card reader failures and degraded charging speeds.,Negative,True,2022-08-09
+USR_1245,RIVIAN,4,Price & Financial Value,Federal and state clean vehicle tax incentives made this EV cheaper upfront than a gas equivalent.,Positive,True,2024-10-13
+USR_1246,KIA,1,Battery & Reliability,Experienced an onboard charger inverter failure that required two weeks in the shop waiting on parts.,Negative,True,2023-01-21
+USR_1247,VOLKSWAGEN,5,Driving Performance & Tech,Over-the-air software updates continue to add valuable navigation and battery preconditioning features.,Positive,False,2023-11-12
+USR_1248,VOLKSWAGEN,5,Driving Performance & Tech,Instant torque and single-pedal driving make this the best driving vehicle I have ever owned.,Positive,True,2021-02-23
+USR_1249,TESLA,1,Range Anxiety,Winter range penalty is severe and makes road trips stressful with unexpected detours.,Negative,True,2022-10-24
+USR_1250,NISSAN,1,Range Anxiety,Constant anxiety when driving across rural corridors where no fast chargers are present.,Negative,True,2022-08-26
+USR_1251,FORD,1,Price & Financial Value,Insurance premiums and tire replacement costs are notably higher than my previous gas car.,Negative,True,2022-08-12
+USR_1252,KIA,3,Driving Performance & Tech,"Whisper quiet cabin, low center of gravity, and effortless acceleration.",Positive,True,2023-08-17
+USR_1253,TESLA,2,Battery & Reliability,"Battery health is holding up fine, but 12V auxiliary battery needed premature replacement.",Neutral,True,2021-08-08
+USR_1254,NISSAN,2,Driving Performance & Tech,Touchscreen lag and lack of tactile climate control buttons are distracting and irritating.,Negative,True,2022-07-18
+USR_1255,KIA,5,Range Anxiety,Battery range exceeded my expectations on long highway road trips. Easily get 300+ miles.,Positive,True,2021-03-23
+USR_1256,FORD,2,Battery & Reliability,"Battery health is holding up fine, but 12V auxiliary battery needed premature replacement.",Neutral,True,2024-11-25
+USR_1257,KIA,4,Price & Financial Value,Federal and state clean vehicle tax incentives made this EV cheaper upfront than a gas equivalent.,Positive,True,2024-11-24
+USR_1258,CHEVROLET,5,Range Anxiety,Battery range exceeded my expectations on long highway road trips. Easily get 300+ miles.,Positive,True,2022-04-21
+USR_1259,CHEVROLET,2,Charging Infrastructure,"Plenty of slow destination chargers, but high-speed 150kW+ chargers are lacking along state highways.",Neutral,True,2021-04-14
+USR_1260,VOLKSWAGEN,3,Charging Infrastructure,"Plenty of slow destination chargers, but high-speed 150kW+ chargers are lacking along state highways.",Neutral,True,2022-05-28
+USR_1261,CHEVROLET,3,Driving Performance & Tech,"Great driving dynamics, but phone projection occasionally disconnects after firmware updates.",Neutral,True,2023-09-05
+USR_1262,RIVIAN,2,Battery & Reliability,Noticed roughly 10% degradation in battery capacity within 2.5 years of ownership.,Negative,True,2021-03-19
+USR_1263,VOLKSWAGEN,3,Range Anxiety,"Range is acceptable in city conditions, but highway speeds drain the battery much faster than rated.",Neutral,True,2023-08-01
+USR_1264,RIVIAN,3,Range Anxiety,"Range is acceptable in city conditions, but highway speeds drain the battery much faster than rated.",Neutral,True,2022-01-10
+USR_1265,KIA,5,Charging Infrastructure,The fast charging network has expanded tremendously. Plug and charge works seamlessly.,Positive,True,2021-05-21
+USR_1266,NISSAN,1,Price & Financial Value,Insurance premiums and tire replacement costs are notably higher than my previous gas car.,Negative,True,2021-05-03
+USR_1267,RIVIAN,5,Charging Infrastructure,The fast charging network has expanded tremendously. Plug and charge works seamlessly.,Positive,True,2024-12-18
+USR_1268,KIA,3,Battery & Reliability,"Battery health is holding up fine, but 12V auxiliary battery needed premature replacement.",Neutral,True,2021-11-24
+USR_1269,RIVIAN,4,Price & Financial Value,"Saved over $2,400 in gasoline and oil changes in my first year alone! Extremely cost effective.",Positive,True,2021-08-21
+USR_1270,HYUNDAI,2,Battery & Reliability,Noticed roughly 10% degradation in battery capacity within 2.5 years of ownership.,Negative,True,2024-08-20
+USR_1271,KIA,1,Battery & Reliability,Experienced an onboard charger inverter failure that required two weeks in the shop waiting on parts.,Negative,True,2021-04-08
+USR_1272,FORD,1,Range Anxiety,Constant anxiety when driving across rural corridors where no fast chargers are present.,Negative,False,2024-10-19
+USR_1273,NISSAN,4,Driving Performance & Tech,"Whisper quiet cabin, low center of gravity, and effortless acceleration.",Positive,True,2022-12-27
+USR_1274,NISSAN,3,Battery & Reliability,"Battery health is holding up fine, but 12V auxiliary battery needed premature replacement.",Neutral,True,2022-09-24
+USR_1275,NISSAN,1,Charging Infrastructure,Arrived at a highway charging plaza with 3 out of 4 stalls broken and a 45-minute queue.,Negative,True,2022-04-23
+USR_1276,NISSAN,3,Driving Performance & Tech,"Great driving dynamics, but phone projection occasionally disconnects after firmware updates.",Neutral,True,2021-08-14
+USR_1277,HYUNDAI,4,Charging Infrastructure,Home Level 2 charging is an absolute game-changer. I wake up with a full tank every morning.,Positive,True,2024-10-27
+USR_1278,CHEVROLET,4,Price & Financial Value,Federal and state clean vehicle tax incentives made this EV cheaper upfront than a gas equivalent.,Positive,True,2021-11-17
+USR_1279,VOLKSWAGEN,2,Price & Financial Value,"Higher upfront cost balanced out by low electricity rates, but tire wear is noticeable due to vehicle weight.",Neutral,True,2023-06-23
+USR_1280,KIA,4,Range Anxiety,Battery range exceeded my expectations on long highway road trips. Easily get 300+ miles.,Positive,True,2024-07-03
+USR_1281,VOLKSWAGEN,4,Battery & Reliability,Almost zero maintenance needed besides cabin air filter and wiper fluid. Very reliable.,Positive,True,2021-03-19
+USR_1282,KIA,3,Charging Infrastructure,"Plenty of slow destination chargers, but high-speed 150kW+ chargers are lacking along state highways.",Neutral,True,2023-07-03
+USR_1283,KIA,5,Range Anxiety,Battery range exceeded my expectations on long highway road trips. Easily get 300+ miles.,Positive,True,2021-06-28
+USR_1284,CHEVROLET,4,Price & Financial Value,Federal and state clean vehicle tax incentives made this EV cheaper upfront than a gas equivalent.,Positive,True,2021-08-13
+USR_1285,CHEVROLET,3,Range Anxiety,"Range drops around 20% during freezing winter months, but still plenty for my 50-mile daily commute.",Positive,False,2022-03-19
+USR_1286,FORD,3,Price & Financial Value,"Higher upfront cost balanced out by low electricity rates, but tire wear is noticeable due to vehicle weight.",Neutral,True,2023-08-11
+USR_1287,FORD,5,Driving Performance & Tech,Over-the-air software updates continue to add valuable navigation and battery preconditioning features.,Positive,True,2023-10-23
+USR_1288,FORD,1,Charging Infrastructure,Arrived at a highway charging plaza with 3 out of 4 stalls broken and a 45-minute queue.,Negative,True,2023-01-16
+USR_1289,KIA,4,Price & Financial Value,Federal and state clean vehicle tax incentives made this EV cheaper upfront than a gas equivalent.,Positive,True,2023-04-05
+USR_1290,HYUNDAI,4,Driving Performance & Tech,"Great driving dynamics, but phone projection occasionally disconnects after firmware updates.",Neutral,True,2022-07-21
+USR_1291,FORD,5,Price & Financial Value,"Saved over $2,400 in gasoline and oil changes in my first year alone! Extremely cost effective.",Positive,True,2022-12-02
+USR_1292,RIVIAN,3,Range Anxiety,Winter range penalty is severe and makes road trips stressful with unexpected detours.,Negative,True,2023-01-20
+USR_1293,HYUNDAI,4,Range Anxiety,"Range drops around 20% during freezing winter months, but still plenty for my 50-mile daily commute.",Positive,True,2021-08-21
+USR_1294,RIVIAN,4,Price & Financial Value,Federal and state clean vehicle tax incentives made this EV cheaper upfront than a gas equivalent.,Positive,True,2021-08-24
+USR_1295,NISSAN,5,Range Anxiety,Battery range exceeded my expectations on long highway road trips. Easily get 300+ miles.,Positive,True,2021-11-25
+USR_1296,FORD,1,Battery & Reliability,Experienced an onboard charger inverter failure that required two weeks in the shop waiting on parts.,Negative,True,2022-05-22
+USR_1297,TESLA,5,Range Anxiety,Battery range exceeded my expectations on long highway road trips. Easily get 300+ miles.,Positive,True,2022-03-25
+USR_1298,VOLKSWAGEN,2,Range Anxiety,Winter range penalty is severe and makes road trips stressful with unexpected detours.,Negative,True,2021-11-21
+USR_1299,KIA,3,Charging Infrastructure,"Plenty of slow destination chargers, but high-speed 150kW+ chargers are lacking along state highways.",Neutral,True,2021-01-26
+USR_1300,KIA,2,Range Anxiety,Constant anxiety when driving across rural corridors where no fast chargers are present.,Negative,True,2023-04-13
+USR_1301,NISSAN,3,Driving Performance & Tech,"Whisper quiet cabin, low center of gravity, and effortless acceleration.",Positive,True,2021-07-01
+USR_1302,KIA,5,Charging Infrastructure,The fast charging network has expanded tremendously. Plug and charge works seamlessly.,Positive,False,2022-04-13
+USR_1303,TESLA,4,Charging Infrastructure,Home Level 2 charging is an absolute game-changer. I wake up with a full tank every morning.,Positive,True,2021-07-23
+USR_1304,HYUNDAI,3,Range Anxiety,"Range is acceptable in city conditions, but highway speeds drain the battery much faster than rated.",Neutral,True,2021-04-27
+USR_1305,NISSAN,3,Range Anxiety,"Range drops around 20% during freezing winter months, but still plenty for my 50-mile daily commute.",Positive,True,2021-04-23
+USR_1306,FORD,3,Charging Infrastructure,Public chargers frequently suffer from payment card reader failures and degraded charging speeds.,Negative,True,2023-10-04
+USR_1307,FORD,5,Driving Performance & Tech,Instant torque and single-pedal driving make this the best driving vehicle I have ever owned.,Positive,False,2022-12-08
+USR_1308,FORD,4,Battery & Reliability,"After 60,000 miles, battery degradation is under 3%. Extremely impressed with thermal management.",Positive,False,2022-04-18
+USR_1309,RIVIAN,4,Battery & Reliability,Almost zero maintenance needed besides cabin air filter and wiper fluid. Very reliable.,Positive,True,2021-09-12
+USR_1310,HYUNDAI,4,Charging Infrastructure,Home Level 2 charging is an absolute game-changer. I wake up with a full tank every morning.,Positive,False,2022-03-18
+USR_1311,HYUNDAI,1,Driving Performance & Tech,Touchscreen lag and lack of tactile climate control buttons are distracting and irritating.,Negative,True,2022-08-11
+USR_1312,VOLKSWAGEN,4,Price & Financial Value,Federal and state clean vehicle tax incentives made this EV cheaper upfront than a gas equivalent.,Positive,False,2021-04-14
+USR_1313,HYUNDAI,2,Driving Performance & Tech,"Great driving dynamics, but phone projection occasionally disconnects after firmware updates.",Neutral,False,2024-07-02
+USR_1314,CHEVROLET,2,Battery & Reliability,Noticed roughly 10% degradation in battery capacity within 2.5 years of ownership.,Negative,False,2021-02-19
+USR_1315,VOLKSWAGEN,4,Price & Financial Value,"Saved over $2,400 in gasoline and oil changes in my first year alone! Extremely cost effective.",Positive,True,2021-11-08
+USR_1316,VOLKSWAGEN,5,Battery & Reliability,Almost zero maintenance needed besides cabin air filter and wiper fluid. Very reliable.,Positive,True,2024-03-07
+USR_1317,FORD,5,Charging Infrastructure,The fast charging network has expanded tremendously. Plug and charge works seamlessly.,Positive,True,2022-01-04
+USR_1318,TESLA,3,Driving Performance & Tech,"Great driving dynamics, but phone projection occasionally disconnects after firmware updates.",Neutral,False,2023-08-27
+USR_1319,CHEVROLET,5,Battery & Reliability,"After 60,000 miles, battery degradation is under 3%. Extremely impressed with thermal management.",Positive,True,2022-05-26
+USR_1320,NISSAN,3,Charging Infrastructure,Home Level 2 charging is an absolute game-changer. I wake up with a full tank every morning.,Positive,False,2024-08-02
+USR_1321,HYUNDAI,5,Charging Infrastructure,Home Level 2 charging is an absolute game-changer. I wake up with a full tank every morning.,Positive,True,2021-07-28
+USR_1322,RIVIAN,4,Battery & Reliability,"After 60,000 miles, battery degradation is under 3%. Extremely impressed with thermal management.",Positive,False,2022-09-16
+USR_1323,RIVIAN,5,Charging Infrastructure,The fast charging network has expanded tremendously. Plug and charge works seamlessly.,Positive,True,2022-04-25
+USR_1324,KIA,1,Battery & Reliability,Experienced an onboard charger inverter failure that required two weeks in the shop waiting on parts.,Negative,True,2024-12-17
+USR_1325,NISSAN,2,Charging Infrastructure,Arrived at a highway charging plaza with 3 out of 4 stalls broken and a 45-minute queue.,Negative,True,2023-07-05
+USR_1326,RIVIAN,1,Charging Infrastructure,Arrived at a highway charging plaza with 3 out of 4 stalls broken and a 45-minute queue.,Negative,True,2021-10-10
+USR_1327,NISSAN,3,Battery & Reliability,"Battery health is holding up fine, but 12V auxiliary battery needed premature replacement.",Neutral,True,2024-06-07
+USR_1328,VOLKSWAGEN,1,Price & Financial Value,Insurance premiums and tire replacement costs are notably higher than my previous gas car.,Negative,True,2022-01-01
+USR_1329,HYUNDAI,4,Price & Financial Value,Federal and state clean vehicle tax incentives made this EV cheaper upfront than a gas equivalent.,Positive,True,2022-07-11
+USR_1330,KIA,3,Price & Financial Value,Initial purchase price is still too premium for mass adoption without government subsidies.,Negative,True,2021-09-23
+USR_1331,FORD,4,Charging Infrastructure,Home Level 2 charging is an absolute game-changer. I wake up with a full tank every morning.,Positive,True,2022-11-01
+USR_1332,TESLA,1,Price & Financial Value,Insurance premiums and tire replacement costs are notably higher than my previous gas car.,Negative,True,2023-10-19
+USR_1333,RIVIAN,3,Driving Performance & Tech,Touchscreen lag and lack of tactile climate control buttons are distracting and irritating.,Negative,True,2024-07-11
+USR_1334,TESLA,1,Charging Infrastructure,Arrived at a highway charging plaza with 3 out of 4 stalls broken and a 45-minute queue.,Negative,True,2023-10-11
+USR_1335,RIVIAN,1,Battery & Reliability,Experienced an onboard charger inverter failure that required two weeks in the shop waiting on parts.,Negative,True,2022-08-08
+USR_1336,RIVIAN,4,Battery & Reliability,"Battery health is holding up fine, but 12V auxiliary battery needed premature replacement.",Neutral,False,2022-08-15
+USR_1337,FORD,4,Price & Financial Value,Federal and state clean vehicle tax incentives made this EV cheaper upfront than a gas equivalent.,Positive,False,2024-12-23
+USR_1338,TESLA,4,Charging Infrastructure,Home Level 2 charging is an absolute game-changer. I wake up with a full tank every morning.,Positive,True,2022-04-18
+USR_1339,VOLKSWAGEN,3,Range Anxiety,"Range is acceptable in city conditions, but highway speeds drain the battery much faster than rated.",Neutral,True,2023-01-14
+USR_1340,HYUNDAI,1,Range Anxiety,Constant anxiety when driving across rural corridors where no fast chargers are present.,Negative,True,2023-04-07
+USR_1341,HYUNDAI,1,Range Anxiety,Winter range penalty is severe and makes road trips stressful with unexpected detours.,Negative,True,2024-12-26
+USR_1342,VOLKSWAGEN,4,Driving Performance & Tech,"Great driving dynamics, but phone projection occasionally disconnects after firmware updates.",Neutral,False,2023-11-06
+USR_1343,KIA,4,Price & Financial Value,"Higher upfront cost balanced out by low electricity rates, but tire wear is noticeable due to vehicle weight.",Neutral,False,2022-12-07
+USR_1344,TESLA,3,Driving Performance & Tech,"Great driving dynamics, but phone projection occasionally disconnects after firmware updates.",Neutral,True,2024-08-13
+USR_1345,FORD,4,Driving Performance & Tech,"Whisper quiet cabin, low center of gravity, and effortless acceleration.",Positive,True,2022-05-13
+USR_1346,RIVIAN,2,Battery & Reliability,Noticed roughly 10% degradation in battery capacity within 2.5 years of ownership.,Negative,True,2021-05-19
+USR_1347,HYUNDAI,3,Driving Performance & Tech,Touchscreen lag and lack of tactile climate control buttons are distracting and irritating.,Negative,True,2023-11-25
+USR_1348,NISSAN,3,Charging Infrastructure,Public chargers frequently suffer from payment card reader failures and degraded charging speeds.,Negative,True,2021-12-09
+USR_1349,TESLA,5,Battery & Reliability,"After 60,000 miles, battery degradation is under 3%. Extremely impressed with thermal management.",Positive,False,2024-07-18
+USR_1350,RIVIAN,1,Range Anxiety,Constant anxiety when driving across rural corridors where no fast chargers are present.,Negative,True,2021-07-11
+USR_1351,HYUNDAI,5,Driving Performance & Tech,Instant torque and single-pedal driving make this the best driving vehicle I have ever owned.,Positive,False,2021-12-01
+USR_1352,KIA,4,Price & Financial Value,Federal and state clean vehicle tax incentives made this EV cheaper upfront than a gas equivalent.,Positive,True,2021-09-05
+USR_1353,NISSAN,2,Range Anxiety,Constant anxiety when driving across rural corridors where no fast chargers are present.,Negative,True,2023-07-08
+USR_1354,RIVIAN,4,Driving Performance & Tech,"Whisper quiet cabin, low center of gravity, and effortless acceleration.",Positive,False,2024-10-24
+USR_1355,FORD,5,Driving Performance & Tech,Instant torque and single-pedal driving make this the best driving vehicle I have ever owned.,Positive,True,2022-11-05
+USR_1356,CHEVROLET,3,Price & Financial Value,"Higher upfront cost balanced out by low electricity rates, but tire wear is noticeable due to vehicle weight.",Neutral,True,2021-08-14
+USR_1357,RIVIAN,3,Charging Infrastructure,Public chargers frequently suffer from payment card reader failures and degraded charging speeds.,Negative,True,2021-02-26
+USR_1358,TESLA,5,Battery & Reliability,Almost zero maintenance needed besides cabin air filter and wiper fluid. Very reliable.,Positive,False,2024-06-02
+USR_1359,VOLKSWAGEN,2,Driving Performance & Tech,Touchscreen lag and lack of tactile climate control buttons are distracting and irritating.,Negative,False,2024-01-09
+USR_1360,RIVIAN,4,Battery & Reliability,Almost zero maintenance needed besides cabin air filter and wiper fluid. Very reliable.,Positive,True,2024-09-09
+USR_1361,KIA,4,Range Anxiety,"Range is acceptable in city conditions, but highway speeds drain the battery much faster than rated.",Neutral,False,2024-01-19
+USR_1362,NISSAN,3,Charging Infrastructure,Public chargers frequently suffer from payment card reader failures and degraded charging speeds.,Negative,True,2022-04-17
+USR_1363,VOLKSWAGEN,1,Range Anxiety,Winter range penalty is severe and makes road trips stressful with unexpected detours.,Negative,False,2024-01-06
+USR_1364,HYUNDAI,5,Price & Financial Value,"Saved over $2,400 in gasoline and oil changes in my first year alone! Extremely cost effective.",Positive,True,2024-02-23
+USR_1365,NISSAN,2,Driving Performance & Tech,Touchscreen lag and lack of tactile climate control buttons are distracting and irritating.,Negative,False,2022-03-01
+USR_1366,FORD,3,Range Anxiety,"Range drops around 20% during freezing winter months, but still plenty for my 50-mile daily commute.",Positive,True,2024-12-14
+USR_1367,HYUNDAI,5,Charging Infrastructure,The fast charging network has expanded tremendously. Plug and charge works seamlessly.,Positive,True,2023-01-22
+USR_1368,NISSAN,1,Range Anxiety,Constant anxiety when driving across rural corridors where no fast chargers are present.,Negative,True,2021-03-18
+USR_1369,VOLKSWAGEN,2,Battery & Reliability,Noticed roughly 10% degradation in battery capacity within 2.5 years of ownership.,Negative,True,2022-08-19
+USR_1370,HYUNDAI,1,Charging Infrastructure,Arrived at a highway charging plaza with 3 out of 4 stalls broken and a 45-minute queue.,Negative,True,2021-12-16
+USR_1371,RIVIAN,1,Charging Infrastructure,Arrived at a highway charging plaza with 3 out of 4 stalls broken and a 45-minute queue.,Negative,True,2024-12-26
+USR_1372,KIA,5,Driving Performance & Tech,"Whisper quiet cabin, low center of gravity, and effortless acceleration.",Positive,False,2024-01-27
+USR_1373,FORD,1,Charging Infrastructure,Arrived at a highway charging plaza with 3 out of 4 stalls broken and a 45-minute queue.,Negative,True,2022-04-10
+USR_1374,KIA,1,Charging Infrastructure,Arrived at a highway charging plaza with 3 out of 4 stalls broken and a 45-minute queue.,Negative,True,2023-07-08
+USR_1375,CHEVROLET,2,Driving Performance & Tech,Touchscreen lag and lack of tactile climate control buttons are distracting and irritating.,Negative,True,2023-09-16
+USR_1376,HYUNDAI,5,Price & Financial Value,Federal and state clean vehicle tax incentives made this EV cheaper upfront than a gas equivalent.,Positive,False,2023-05-26
+USR_1377,RIVIAN,3,Price & Financial Value,Federal and state clean vehicle tax incentives made this EV cheaper upfront than a gas equivalent.,Positive,True,2024-08-24
+USR_1378,HYUNDAI,3,Battery & Reliability,"Battery health is holding up fine, but 12V auxiliary battery needed premature replacement.",Neutral,False,2022-11-26
+USR_1379,TESLA,3,Charging Infrastructure,Public chargers frequently suffer from payment card reader failures and degraded charging speeds.,Negative,True,2024-06-15
+USR_1380,FORD,5,Battery & Reliability,Almost zero maintenance needed besides cabin air filter and wiper fluid. Very reliable.,Positive,True,2021-09-11
+USR_1381,KIA,3,Charging Infrastructure,Home Level 2 charging is an absolute game-changer. I wake up with a full tank every morning.,Positive,True,2023-08-11
+USR_1382,NISSAN,1,Driving Performance & Tech,Touchscreen lag and lack of tactile climate control buttons are distracting and irritating.,Negative,True,2024-10-14
+USR_1383,KIA,3,Range Anxiety,"Range is acceptable in city conditions, but highway speeds drain the battery much faster than rated.",Neutral,True,2023-01-03
+USR_1384,RIVIAN,4,Charging Infrastructure,"Plenty of slow destination chargers, but high-speed 150kW+ chargers are lacking along state highways.",Neutral,True,2021-09-04
+USR_1385,CHEVROLET,3,Driving Performance & Tech,Touchscreen lag and lack of tactile climate control buttons are distracting and irritating.,Negative,True,2022-01-16
+USR_1386,KIA,5,Battery & Reliability,Almost zero maintenance needed besides cabin air filter and wiper fluid. Very reliable.,Positive,True,2022-08-10
+USR_1387,TESLA,2,Range Anxiety,Winter range penalty is severe and makes road trips stressful with unexpected detours.,Negative,False,2023-03-15
+USR_1388,TESLA,5,Battery & Reliability,"After 60,000 miles, battery degradation is under 3%. Extremely impressed with thermal management.",Positive,True,2023-04-14
+USR_1389,NISSAN,2,Charging Infrastructure,Public chargers frequently suffer from payment card reader failures and degraded charging speeds.,Negative,True,2023-07-15
+USR_1390,NISSAN,1,Range Anxiety,Constant anxiety when driving across rural corridors where no fast chargers are present.,Negative,True,2024-06-19
+USR_1391,KIA,3,Charging Infrastructure,"Plenty of slow destination chargers, but high-speed 150kW+ chargers are lacking along state highways.",Neutral,False,2022-08-09
+USR_1392,VOLKSWAGEN,3,Charging Infrastructure,Home Level 2 charging is an absolute game-changer. I wake up with a full tank every morning.,Positive,False,2021-03-13
+USR_1393,CHEVROLET,3,Driving Performance & Tech,"Great driving dynamics, but phone projection occasionally disconnects after firmware updates.",Neutral,False,2021-03-08
+USR_1394,RIVIAN,2,Driving Performance & Tech,Touchscreen lag and lack of tactile climate control buttons are distracting and irritating.,Negative,True,2023-11-08
+USR_1395,HYUNDAI,1,Charging Infrastructure,Arrived at a highway charging plaza with 3 out of 4 stalls broken and a 45-minute queue.,Negative,False,2024-06-23
+USR_1396,KIA,2,Range Anxiety,Winter range penalty is severe and makes road trips stressful with unexpected detours.,Negative,True,2024-10-15
+USR_1397,FORD,3,Charging Infrastructure,"Plenty of slow destination chargers, but high-speed 150kW+ chargers are lacking along state highways.",Neutral,True,2022-12-28
+USR_1398,CHEVROLET,4,Battery & Reliability,"Battery health is holding up fine, but 12V auxiliary battery needed premature replacement.",Neutral,True,2023-04-03
+USR_1399,HYUNDAI,4,Range Anxiety,"Range is acceptable in city conditions, but highway speeds drain the battery much faster than rated.",Neutral,True,2022-10-24
+USR_1400,FORD,2,Driving Performance & Tech,Touchscreen lag and lack of tactile climate control buttons are distracting and irritating.,Negative,True,2022-08-03
+USR_1401,FORD,4,Battery & Reliability,Almost zero maintenance needed besides cabin air filter and wiper fluid. Very reliable.,Positive,True,2023-10-15
+USR_1402,KIA,4,Charging Infrastructure,Home Level 2 charging is an absolute game-changer. I wake up with a full tank every morning.,Positive,True,2022-01-17
+USR_1403,KIA,4,Charging Infrastructure,"Plenty of slow destination chargers, but high-speed 150kW+ chargers are lacking along state highways.",Neutral,True,2022-12-11
+USR_1404,FORD,2,Range Anxiety,Winter range penalty is severe and makes road trips stressful with unexpected detours.,Negative,True,2022-02-04
+USR_1405,TESLA,3,Range Anxiety,"Range is acceptable in city conditions, but highway speeds drain the battery much faster than rated.",Neutral,True,2021-06-20
+USR_1406,TESLA,4,Battery & Reliability,Almost zero maintenance needed besides cabin air filter and wiper fluid. Very reliable.,Positive,True,2021-04-09
+USR_1407,HYUNDAI,5,Charging Infrastructure,The fast charging network has expanded tremendously. Plug and charge works seamlessly.,Positive,True,2024-10-23
+USR_1408,FORD,5,Price & Financial Value,"Saved over $2,400 in gasoline and oil changes in my first year alone! Extremely cost effective.",Positive,False,2022-01-13
+USR_1409,RIVIAN,4,Range Anxiety,Battery range exceeded my expectations on long highway road trips. Easily get 300+ miles.,Positive,True,2021-10-08
+USR_1410,NISSAN,4,Driving Performance & Tech,"Whisper quiet cabin, low center of gravity, and effortless acceleration.",Positive,True,2021-01-24
+USR_1411,NISSAN,2,Driving Performance & Tech,Touchscreen lag and lack of tactile climate control buttons are distracting and irritating.,Negative,False,2022-01-12
+USR_1412,RIVIAN,5,Range Anxiety,"Range drops around 20% during freezing winter months, but still plenty for my 50-mile daily commute.",Positive,False,2022-04-20
+USR_1413,CHEVROLET,1,Battery & Reliability,Experienced an onboard charger inverter failure that required two weeks in the shop waiting on parts.,Negative,False,2024-03-26
+USR_1414,FORD,3,Charging Infrastructure,Public chargers frequently suffer from payment card reader failures and degraded charging speeds.,Negative,True,2024-09-26
+USR_1415,TESLA,4,Charging Infrastructure,The fast charging network has expanded tremendously. Plug and charge works seamlessly.,Positive,True,2022-02-28
+USR_1416,RIVIAN,3,Battery & Reliability,"Battery health is holding up fine, but 12V auxiliary battery needed premature replacement.",Neutral,True,2022-03-01
+USR_1417,KIA,1,Range Anxiety,Constant anxiety when driving across rural corridors where no fast chargers are present.,Negative,False,2021-05-18
+USR_1418,NISSAN,4,Driving Performance & Tech,"Great driving dynamics, but phone projection occasionally disconnects after firmware updates.",Neutral,True,2021-07-13
+USR_1419,TESLA,1,Battery & Reliability,Noticed roughly 10% degradation in battery capacity within 2.5 years of ownership.,Negative,True,2021-01-18
+USR_1420,NISSAN,1,Price & Financial Value,Insurance premiums and tire replacement costs are notably higher than my previous gas car.,Negative,True,2023-03-06
+USR_1421,HYUNDAI,5,Price & Financial Value,"Saved over $2,400 in gasoline and oil changes in my first year alone! Extremely cost effective.",Positive,False,2023-04-02
+USR_1422,VOLKSWAGEN,1,Battery & Reliability,Noticed roughly 10% degradation in battery capacity within 2.5 years of ownership.,Negative,True,2024-07-21
+USR_1423,VOLKSWAGEN,5,Range Anxiety,Battery range exceeded my expectations on long highway road trips. Easily get 300+ miles.,Positive,True,2021-07-28
+USR_1424,FORD,4,Price & Financial Value,"Higher upfront cost balanced out by low electricity rates, but tire wear is noticeable due to vehicle weight.",Neutral,True,2024-05-25
+USR_1425,VOLKSWAGEN,4,Battery & Reliability,Almost zero maintenance needed besides cabin air filter and wiper fluid. Very reliable.,Positive,False,2021-06-25
+USR_1426,NISSAN,5,Range Anxiety,Battery range exceeded my expectations on long highway road trips. Easily get 300+ miles.,Positive,False,2022-07-27
+USR_1427,TESLA,5,Price & Financial Value,"Saved over $2,400 in gasoline and oil changes in my first year alone! Extremely cost effective.",Positive,False,2021-09-03
+USR_1428,KIA,1,Price & Financial Value,Initial purchase price is still too premium for mass adoption without government subsidies.,Negative,False,2023-10-27
+USR_1429,TESLA,1,Battery & Reliability,Experienced an onboard charger inverter failure that required two weeks in the shop waiting on parts.,Negative,True,2024-06-05
+USR_1430,CHEVROLET,4,Price & Financial Value,"Saved over $2,400 in gasoline and oil changes in my first year alone! Extremely cost effective.",Positive,False,2024-11-15
+USR_1431,NISSAN,5,Charging Infrastructure,The fast charging network has expanded tremendously. Plug and charge works seamlessly.,Positive,True,2024-05-15
+USR_1432,NISSAN,5,Driving Performance & Tech,Instant torque and single-pedal driving make this the best driving vehicle I have ever owned.,Positive,True,2024-05-07
+USR_1433,NISSAN,2,Charging Infrastructure,"Plenty of slow destination chargers, but high-speed 150kW+ chargers are lacking along state highways.",Neutral,False,2024-11-11
+USR_1434,CHEVROLET,4,Battery & Reliability,Almost zero maintenance needed besides cabin air filter and wiper fluid. Very reliable.,Positive,False,2021-03-12
+USR_1435,RIVIAN,4,Driving Performance & Tech,"Whisper quiet cabin, low center of gravity, and effortless acceleration.",Positive,True,2021-10-04
+USR_1436,CHEVROLET,1,Charging Infrastructure,Arrived at a highway charging plaza with 3 out of 4 stalls broken and a 45-minute queue.,Negative,True,2024-11-27
+USR_1437,HYUNDAI,5,Battery & Reliability,Almost zero maintenance needed besides cabin air filter and wiper fluid. Very reliable.,Positive,True,2024-09-07
+USR_1438,TESLA,3,Charging Infrastructure,Public chargers frequently suffer from payment card reader failures and degraded charging speeds.,Negative,True,2022-10-27
+USR_1439,HYUNDAI,2,Charging Infrastructure,Public chargers frequently suffer from payment card reader failures and degraded charging speeds.,Negative,False,2021-07-14
+USR_1440,CHEVROLET,5,Price & Financial Value,"Saved over $2,400 in gasoline and oil changes in my first year alone! Extremely cost effective.",Positive,True,2024-05-19
+USR_1441,RIVIAN,2,Price & Financial Value,Initial purchase price is still too premium for mass adoption without government subsidies.,Negative,False,2024-06-05
+USR_1442,NISSAN,5,Battery & Reliability,"After 60,000 miles, battery degradation is under 3%. Extremely impressed with thermal management.",Positive,True,2022-04-05
+USR_1443,TESLA,3,Battery & Reliability,"Battery health is holding up fine, but 12V auxiliary battery needed premature replacement.",Neutral,True,2023-03-11
+USR_1444,RIVIAN,5,Price & Financial Value,"Saved over $2,400 in gasoline and oil changes in my first year alone! Extremely cost effective.",Positive,True,2024-09-06
+USR_1445,VOLKSWAGEN,4,Battery & Reliability,"After 60,000 miles, battery degradation is under 3%. Extremely impressed with thermal management.",Positive,True,2021-10-23
+USR_1446,RIVIAN,1,Price & Financial Value,Insurance premiums and tire replacement costs are notably higher than my previous gas car.,Negative,True,2024-05-07
+USR_1447,RIVIAN,1,Charging Infrastructure,Arrived at a highway charging plaza with 3 out of 4 stalls broken and a 45-minute queue.,Negative,True,2022-04-16
+USR_1448,CHEVROLET,1,Charging Infrastructure,Public chargers frequently suffer from payment card reader failures and degraded charging speeds.,Negative,False,2021-02-02
+USR_1449,VOLKSWAGEN,2,Price & Financial Value,"Higher upfront cost balanced out by low electricity rates, but tire wear is noticeable due to vehicle weight.",Neutral,True,2021-08-16
+USR_1450,TESLA,5,Charging Infrastructure,The fast charging network has expanded tremendously. Plug and charge works seamlessly.,Positive,True,2021-10-21
+USR_1451,FORD,1,Price & Financial Value,Insurance premiums and tire replacement costs are notably higher than my previous gas car.,Negative,False,2024-06-19
+USR_1452,RIVIAN,4,Price & Financial Value,Federal and state clean vehicle tax incentives made this EV cheaper upfront than a gas equivalent.,Positive,True,2022-10-25
+USR_1453,HYUNDAI,3,Battery & Reliability,"Battery health is holding up fine, but 12V auxiliary battery needed premature replacement.",Neutral,True,2024-11-08
+USR_1454,VOLKSWAGEN,4,Charging Infrastructure,Home Level 2 charging is an absolute game-changer. I wake up with a full tank every morning.,Positive,True,2024-05-02
+USR_1455,KIA,1,Price & Financial Value,Initial purchase price is still too premium for mass adoption without government subsidies.,Negative,True,2022-10-06
+USR_1456,TESLA,5,Driving Performance & Tech,Instant torque and single-pedal driving make this the best driving vehicle I have ever owned.,Positive,False,2023-12-15
+USR_1457,TESLA,4,Price & Financial Value,"Higher upfront cost balanced out by low electricity rates, but tire wear is noticeable due to vehicle weight.",Neutral,False,2022-01-27
+USR_1458,TESLA,3,Charging Infrastructure,"Plenty of slow destination chargers, but high-speed 150kW+ chargers are lacking along state highways.",Neutral,False,2021-09-22
+USR_1459,FORD,2,Range Anxiety,Winter range penalty is severe and makes road trips stressful with unexpected detours.,Negative,True,2022-11-19
+USR_1460,RIVIAN,1,Range Anxiety,Constant anxiety when driving across rural corridors where no fast chargers are present.,Negative,False,2023-11-25
+USR_1461,CHEVROLET,4,Battery & Reliability,"After 60,000 miles, battery degradation is under 3%. Extremely impressed with thermal management.",Positive,True,2024-05-07
+USR_1462,KIA,1,Price & Financial Value,Insurance premiums and tire replacement costs are notably higher than my previous gas car.,Negative,True,2021-09-05
+USR_1463,HYUNDAI,4,Battery & Reliability,Almost zero maintenance needed besides cabin air filter and wiper fluid. Very reliable.,Positive,True,2022-12-03
+USR_1464,RIVIAN,4,Driving Performance & Tech,"Great driving dynamics, but phone projection occasionally disconnects after firmware updates.",Neutral,True,2023-01-18
+USR_1465,TESLA,2,Driving Performance & Tech,Touchscreen lag and lack of tactile climate control buttons are distracting and irritating.,Negative,True,2022-05-11
+USR_1466,HYUNDAI,3,Price & Financial Value,"Higher upfront cost balanced out by low electricity rates, but tire wear is noticeable due to vehicle weight.",Neutral,True,2021-02-08
+USR_1467,HYUNDAI,4,Charging Infrastructure,Home Level 2 charging is an absolute game-changer. I wake up with a full tank every morning.,Positive,True,2022-11-12
+USR_1468,KIA,3,Range Anxiety,Winter range penalty is severe and makes road trips stressful with unexpected detours.,Negative,True,2024-12-28
+USR_1469,HYUNDAI,5,Price & Financial Value,Federal and state clean vehicle tax incentives made this EV cheaper upfront than a gas equivalent.,Positive,True,2022-01-20
+USR_1470,VOLKSWAGEN,1,Charging Infrastructure,Public chargers frequently suffer from payment card reader failures and degraded charging speeds.,Negative,True,2023-02-12
+USR_1471,FORD,4,Battery & Reliability,Almost zero maintenance needed besides cabin air filter and wiper fluid. Very reliable.,Positive,True,2022-03-15
+USR_1472,HYUNDAI,5,Price & Financial Value,"Saved over $2,400 in gasoline and oil changes in my first year alone! Extremely cost effective.",Positive,True,2021-03-13
+USR_1473,RIVIAN,5,Driving Performance & Tech,Instant torque and single-pedal driving make this the best driving vehicle I have ever owned.,Positive,True,2022-12-15
+USR_1474,KIA,2,Battery & Reliability,Noticed roughly 10% degradation in battery capacity within 2.5 years of ownership.,Negative,False,2023-12-15
+USR_1475,VOLKSWAGEN,2,Range Anxiety,Winter range penalty is severe and makes road trips stressful with unexpected detours.,Negative,True,2021-10-20
+USR_1476,CHEVROLET,4,Battery & Reliability,"Battery health is holding up fine, but 12V auxiliary battery needed premature replacement.",Neutral,True,2022-08-21
+USR_1477,CHEVROLET,2,Driving Performance & Tech,Touchscreen lag and lack of tactile climate control buttons are distracting and irritating.,Negative,True,2023-09-13
+USR_1478,NISSAN,4,Range Anxiety,"Range drops around 20% during freezing winter months, but still plenty for my 50-mile daily commute.",Positive,False,2024-06-09
+USR_1479,KIA,4,Range Anxiety,"Range is acceptable in city conditions, but highway speeds drain the battery much faster than rated.",Neutral,True,2022-01-04
+USR_1480,TESLA,1,Battery & Reliability,Experienced an onboard charger inverter failure that required two weeks in the shop waiting on parts.,Negative,True,2022-12-16
+USR_1481,TESLA,2,Range Anxiety,Winter range penalty is severe and makes road trips stressful with unexpected detours.,Negative,True,2024-04-16
+USR_1482,CHEVROLET,1,Charging Infrastructure,Arrived at a highway charging plaza with 3 out of 4 stalls broken and a 45-minute queue.,Negative,True,2022-01-12
+USR_1483,RIVIAN,1,Battery & Reliability,Noticed roughly 10% degradation in battery capacity within 2.5 years of ownership.,Negative,False,2024-08-08
+USR_1484,FORD,2,Battery & Reliability,Noticed roughly 10% degradation in battery capacity within 2.5 years of ownership.,Negative,True,2023-08-26
+USR_1485,NISSAN,2,Range Anxiety,Winter range penalty is severe and makes road trips stressful with unexpected detours.,Negative,True,2023-05-08
+USR_1486,TESLA,3,Driving Performance & Tech,Touchscreen lag and lack of tactile climate control buttons are distracting and irritating.,Negative,True,2023-08-17
+USR_1487,VOLKSWAGEN,5,Driving Performance & Tech,Over-the-air software updates continue to add valuable navigation and battery preconditioning features.,Positive,False,2023-06-23
+USR_1488,HYUNDAI,5,Range Anxiety,Battery range exceeded my expectations on long highway road trips. Easily get 300+ miles.,Positive,True,2023-08-20
+USR_1489,VOLKSWAGEN,5,Driving Performance & Tech,Instant torque and single-pedal driving make this the best driving vehicle I have ever owned.,Positive,True,2024-09-26
+USR_1490,HYUNDAI,4,Charging Infrastructure,"Plenty of slow destination chargers, but high-speed 150kW+ chargers are lacking along state highways.",Neutral,True,2024-09-21
+USR_1491,CHEVROLET,3,Range Anxiety,Winter range penalty is severe and makes road trips stressful with unexpected detours.,Negative,True,2022-07-03
+USR_1492,NISSAN,3,Range Anxiety,"Range is acceptable in city conditions, but highway speeds drain the battery much faster than rated.",Neutral,True,2024-09-28
+USR_1493,CHEVROLET,4,Battery & Reliability,Almost zero maintenance needed besides cabin air filter and wiper fluid. Very reliable.,Positive,False,2021-08-26
+USR_1494,KIA,3,Driving Performance & Tech,"Great driving dynamics, but phone projection occasionally disconnects after firmware updates.",Neutral,False,2024-08-18
+USR_1495,NISSAN,4,Battery & Reliability,Almost zero maintenance needed besides cabin air filter and wiper fluid. Very reliable.,Positive,False,2024-03-16
+USR_1496,VOLKSWAGEN,5,Driving Performance & Tech,Instant torque and single-pedal driving make this the best driving vehicle I have ever owned.,Positive,True,2023-11-02
+USR_1497,NISSAN,5,Driving Performance & Tech,Instant torque and single-pedal driving make this the best driving vehicle I have ever owned.,Positive,True,2024-02-07
+USR_1498,KIA,3,Driving Performance & Tech,"Great driving dynamics, but phone projection occasionally disconnects after firmware updates.",Neutral,True,2024-04-19
+USR_1499,VOLKSWAGEN,1,Price & Financial Value,Insurance premiums and tire replacement costs are notably higher than my previous gas car.,Negative,False,2023-02-03
+USR_1500,RIVIAN,4,Driving Performance & Tech,Over-the-air software updates continue to add valuable navigation and battery preconditioning features.,Positive,True,2021-09-06
+USR_1501,RIVIAN,3,Range Anxiety,"Range is acceptable in city conditions, but highway speeds drain the battery much faster than rated.",Neutral,True,2022-05-02
+USR_1502,VOLKSWAGEN,4,Charging Infrastructure,Home Level 2 charging is an absolute game-changer. I wake up with a full tank every morning.,Positive,False,2023-03-13
+USR_1503,TESLA,5,Battery & Reliability,"After 60,000 miles, battery degradation is under 3%. Extremely impressed with thermal management.",Positive,False,2022-10-18
+USR_1504,NISSAN,2,Battery & Reliability,Noticed roughly 10% degradation in battery capacity within 2.5 years of ownership.,Negative,False,2021-08-26
+USR_1505,FORD,4,Range Anxiety,Battery range exceeded my expectations on long highway road trips. Easily get 300+ miles.,Positive,False,2024-05-06
+USR_1506,KIA,2,Price & Financial Value,Insurance premiums and tire replacement costs are notably higher than my previous gas car.,Negative,True,2022-08-20
+USR_1507,VOLKSWAGEN,2,Price & Financial Value,Insurance premiums and tire replacement costs are notably higher than my previous gas car.,Negative,False,2023-03-28
+USR_1508,CHEVROLET,4,Range Anxiety,"Range is acceptable in city conditions, but highway speeds drain the battery much faster than rated.",Neutral,True,2024-03-06
+USR_1509,TESLA,4,Battery & Reliability,Almost zero maintenance needed besides cabin air filter and wiper fluid. Very reliable.,Positive,True,2022-09-18
+USR_1510,CHEVROLET,1,Price & Financial Value,Insurance premiums and tire replacement costs are notably higher than my previous gas car.,Negative,True,2022-06-24
+USR_1511,NISSAN,4,Driving Performance & Tech,Over-the-air software updates continue to add valuable navigation and battery preconditioning features.,Positive,False,2024-06-02
+USR_1512,KIA,5,Range Anxiety,Battery range exceeded my expectations on long highway road trips. Easily get 300+ miles.,Positive,True,2023-03-03
+USR_1513,HYUNDAI,4,Price & Financial Value,Federal and state clean vehicle tax incentives made this EV cheaper upfront than a gas equivalent.,Positive,False,2021-12-17
+USR_1514,HYUNDAI,4,Driving Performance & Tech,"Whisper quiet cabin, low center of gravity, and effortless acceleration.",Positive,True,2024-08-21
+USR_1515,RIVIAN,3,Price & Financial Value,"Higher upfront cost balanced out by low electricity rates, but tire wear is noticeable due to vehicle weight.",Neutral,False,2023-03-06
+USR_1516,VOLKSWAGEN,3,Charging Infrastructure,"Plenty of slow destination chargers, but high-speed 150kW+ chargers are lacking along state highways.",Neutral,True,2022-08-12
+USR_1517,CHEVROLET,5,Range Anxiety,Battery range exceeded my expectations on long highway road trips. Easily get 300+ miles.,Positive,False,2023-07-01
+USR_1518,NISSAN,1,Range Anxiety,Constant anxiety when driving across rural corridors where no fast chargers are present.,Negative,True,2024-01-27
+USR_1519,HYUNDAI,3,Battery & Reliability,"Battery health is holding up fine, but 12V auxiliary battery needed premature replacement.",Neutral,True,2024-06-19
+USR_1520,KIA,5,Charging Infrastructure,The fast charging network has expanded tremendously. Plug and charge works seamlessly.,Positive,True,2024-11-22
+USR_1521,FORD,3,Charging Infrastructure,"Plenty of slow destination chargers, but high-speed 150kW+ chargers are lacking along state highways.",Neutral,True,2022-12-21
+USR_1522,NISSAN,3,Battery & Reliability,"Battery health is holding up fine, but 12V auxiliary battery needed premature replacement.",Neutral,True,2021-10-11
+USR_1523,TESLA,5,Range Anxiety,Battery range exceeded my expectations on long highway road trips. Easily get 300+ miles.,Positive,False,2024-02-12
+USR_1524,CHEVROLET,4,Range Anxiety,"Range drops around 20% during freezing winter months, but still plenty for my 50-mile daily commute.",Positive,False,2021-05-27
+USR_1525,NISSAN,3,Driving Performance & Tech,Touchscreen lag and lack of tactile climate control buttons are distracting and irritating.,Negative,True,2023-06-28
+USR_1526,CHEVROLET,1,Price & Financial Value,Initial purchase price is still too premium for mass adoption without government subsidies.,Negative,True,2023-07-06
+USR_1527,RIVIAN,5,Price & Financial Value,"Saved over $2,400 in gasoline and oil changes in my first year alone! Extremely cost effective.",Positive,False,2023-02-27
+USR_1528,VOLKSWAGEN,5,Price & Financial Value,"Saved over $2,400 in gasoline and oil changes in my first year alone! Extremely cost effective.",Positive,False,2022-10-05
+USR_1529,HYUNDAI,3,Battery & Reliability,"Battery health is holding up fine, but 12V auxiliary battery needed premature replacement.",Neutral,False,2023-07-01
+USR_1530,NISSAN,3,Range Anxiety,Winter range penalty is severe and makes road trips stressful with unexpected detours.,Negative,True,2024-02-12
+USR_1531,TESLA,2,Driving Performance & Tech,Touchscreen lag and lack of tactile climate control buttons are distracting and irritating.,Negative,False,2023-05-20
+USR_1532,RIVIAN,3,Price & Financial Value,"Higher upfront cost balanced out by low electricity rates, but tire wear is noticeable due to vehicle weight.",Neutral,True,2023-09-20
+USR_1533,HYUNDAI,3,Driving Performance & Tech,"Whisper quiet cabin, low center of gravity, and effortless acceleration.",Positive,True,2023-04-19
+USR_1534,HYUNDAI,2,Price & Financial Value,"Higher upfront cost balanced out by low electricity rates, but tire wear is noticeable due to vehicle weight.",Neutral,True,2022-11-10
+USR_1535,TESLA,5,Range Anxiety,Battery range exceeded my expectations on long highway road trips. Easily get 300+ miles.,Positive,True,2023-02-04
+USR_1536,CHEVROLET,3,Range Anxiety,Winter range penalty is severe and makes road trips stressful with unexpected detours.,Negative,True,2022-07-09
+USR_1537,RIVIAN,4,Driving Performance & Tech,Over-the-air software updates continue to add valuable navigation and battery preconditioning features.,Positive,True,2021-09-02
+USR_1538,TESLA,3,Driving Performance & Tech,"Whisper quiet cabin, low center of gravity, and effortless acceleration.",Positive,True,2021-03-10
+USR_1539,TESLA,1,Price & Financial Value,Insurance premiums and tire replacement costs are notably higher than my previous gas car.,Negative,True,2024-10-18
+USR_1540,TESLA,1,Battery & Reliability,Experienced an onboard charger inverter failure that required two weeks in the shop waiting on parts.,Negative,False,2024-03-03
+USR_1541,TESLA,5,Range Anxiety,Battery range exceeded my expectations on long highway road trips. Easily get 300+ miles.,Positive,True,2021-10-08
+USR_1542,HYUNDAI,1,Battery & Reliability,Experienced an onboard charger inverter failure that required two weeks in the shop waiting on parts.,Negative,False,2024-03-28
+USR_1543,FORD,2,Range Anxiety,Constant anxiety when driving across rural corridors where no fast chargers are present.,Negative,False,2024-03-22
+USR_1544,VOLKSWAGEN,1,Driving Performance & Tech,Touchscreen lag and lack of tactile climate control buttons are distracting and irritating.,Negative,True,2022-08-11
+USR_1545,HYUNDAI,2,Battery & Reliability,Noticed roughly 10% degradation in battery capacity within 2.5 years of ownership.,Negative,True,2021-09-15
+USR_1546,VOLKSWAGEN,2,Driving Performance & Tech,Touchscreen lag and lack of tactile climate control buttons are distracting and irritating.,Negative,False,2024-12-24
+USR_1547,NISSAN,2,Charging Infrastructure,"Plenty of slow destination chargers, but high-speed 150kW+ chargers are lacking along state highways.",Neutral,True,2023-08-15
+USR_1548,VOLKSWAGEN,2,Range Anxiety,"Range is acceptable in city conditions, but highway speeds drain the battery much faster than rated.",Neutral,True,2023-02-19
+USR_1549,KIA,3,Range Anxiety,"Range drops around 20% during freezing winter months, but still plenty for my 50-mile daily commute.",Positive,True,2022-02-27
+USR_1550,VOLKSWAGEN,5,Driving Performance & Tech,Over-the-air software updates continue to add valuable navigation and battery preconditioning features.,Positive,True,2021-12-18
+USR_1551,CHEVROLET,2,Charging Infrastructure,Arrived at a highway charging plaza with 3 out of 4 stalls broken and a 45-minute queue.,Negative,True,2024-08-23
+USR_1552,RIVIAN,3,Range Anxiety,Winter range penalty is severe and makes road trips stressful with unexpected detours.,Negative,False,2023-05-09
+USR_1553,HYUNDAI,2,Driving Performance & Tech,Touchscreen lag and lack of tactile climate control buttons are distracting and irritating.,Negative,True,2023-11-28
+USR_1554,NISSAN,4,Driving Performance & Tech,"Whisper quiet cabin, low center of gravity, and effortless acceleration.",Positive,True,2024-09-22
+USR_1555,TESLA,4,Charging Infrastructure,Home Level 2 charging is an absolute game-changer. I wake up with a full tank every morning.,Positive,False,2021-03-15
+USR_1556,NISSAN,2,Battery & Reliability,Noticed roughly 10% degradation in battery capacity within 2.5 years of ownership.,Negative,False,2021-06-28
+USR_1557,KIA,2,Battery & Reliability,Experienced an onboard charger inverter failure that required two weeks in the shop waiting on parts.,Negative,True,2022-04-16
+USR_1558,VOLKSWAGEN,4,Driving Performance & Tech,"Great driving dynamics, but phone projection occasionally disconnects after firmware updates.",Neutral,False,2022-09-26
+USR_1559,FORD,5,Driving Performance & Tech,Over-the-air software updates continue to add valuable navigation and battery preconditioning features.,Positive,True,2023-06-27
+USR_1560,RIVIAN,2,Driving Performance & Tech,Touchscreen lag and lack of tactile climate control buttons are distracting and irritating.,Negative,False,2021-07-25
+USR_1561,TESLA,2,Price & Financial Value,"Higher upfront cost balanced out by low electricity rates, but tire wear is noticeable due to vehicle weight.",Neutral,False,2022-09-08
+USR_1562,VOLKSWAGEN,5,Driving Performance & Tech,Over-the-air software updates continue to add valuable navigation and battery preconditioning features.,Positive,True,2024-12-01
+USR_1563,TESLA,2,Price & Financial Value,Initial purchase price is still too premium for mass adoption without government subsidies.,Negative,False,2023-11-18
+USR_1564,NISSAN,4,Charging Infrastructure,"Plenty of slow destination chargers, but high-speed 150kW+ chargers are lacking along state highways.",Neutral,True,2024-06-27
+USR_1565,TESLA,2,Range Anxiety,Winter range penalty is severe and makes road trips stressful with unexpected detours.,Negative,False,2024-03-03
+USR_1566,RIVIAN,5,Battery & Reliability,"After 60,000 miles, battery degradation is under 3%. Extremely impressed with thermal management.",Positive,True,2021-05-14
+USR_1567,VOLKSWAGEN,1,Battery & Reliability,Noticed roughly 10% degradation in battery capacity within 2.5 years of ownership.,Negative,True,2023-07-08
+USR_1568,KIA,2,Range Anxiety,Constant anxiety when driving across rural corridors where no fast chargers are present.,Negative,True,2022-12-17
+USR_1569,VOLKSWAGEN,1,Price & Financial Value,Insurance premiums and tire replacement costs are notably higher than my previous gas car.,Negative,False,2022-06-07
+USR_1570,CHEVROLET,5,Battery & Reliability,"After 60,000 miles, battery degradation is under 3%. Extremely impressed with thermal management.",Positive,True,2024-11-23
+USR_1571,RIVIAN,4,Range Anxiety,"Range drops around 20% during freezing winter months, but still plenty for my 50-mile daily commute.",Positive,True,2021-12-18
+USR_1572,KIA,4,Driving Performance & Tech,Over-the-air software updates continue to add valuable navigation and battery preconditioning features.,Positive,True,2024-10-21
+USR_1573,CHEVROLET,2,Driving Performance & Tech,Touchscreen lag and lack of tactile climate control buttons are distracting and irritating.,Negative,False,2022-01-28
+USR_1574,HYUNDAI,3,Range Anxiety,"Range is acceptable in city conditions, but highway speeds drain the battery much faster than rated.",Neutral,True,2022-12-01
+USR_1575,VOLKSWAGEN,5,Price & Financial Value,"Saved over $2,400 in gasoline and oil changes in my first year alone! Extremely cost effective.",Positive,False,2022-02-28
+USR_1576,VOLKSWAGEN,5,Price & Financial Value,"Saved over $2,400 in gasoline and oil changes in my first year alone! Extremely cost effective.",Positive,False,2022-09-20
+USR_1577,RIVIAN,4,Price & Financial Value,Federal and state clean vehicle tax incentives made this EV cheaper upfront than a gas equivalent.,Positive,False,2021-06-11
+USR_1578,HYUNDAI,5,Range Anxiety,Battery range exceeded my expectations on long highway road trips. Easily get 300+ miles.,Positive,True,2021-05-08
+USR_1579,VOLKSWAGEN,2,Driving Performance & Tech,Touchscreen lag and lack of tactile climate control buttons are distracting and irritating.,Negative,True,2022-02-17
+USR_1580,RIVIAN,1,Charging Infrastructure,Arrived at a highway charging plaza with 3 out of 4 stalls broken and a 45-minute queue.,Negative,False,2023-01-24
+USR_1581,KIA,3,Price & Financial Value,Initial purchase price is still too premium for mass adoption without government subsidies.,Negative,False,2021-11-20
+USR_1582,FORD,2,Charging Infrastructure,Public chargers frequently suffer from payment card reader failures and degraded charging speeds.,Negative,True,2023-07-13
+USR_1583,NISSAN,3,Battery & Reliability,Almost zero maintenance needed besides cabin air filter and wiper fluid. Very reliable.,Positive,True,2022-12-22
+USR_1584,NISSAN,5,Price & Financial Value,"Saved over $2,400 in gasoline and oil changes in my first year alone! Extremely cost effective.",Positive,True,2023-09-21
+USR_1585,HYUNDAI,4,Range Anxiety,"Range drops around 20% during freezing winter months, but still plenty for my 50-mile daily commute.",Positive,True,2024-10-08
+USR_1586,HYUNDAI,2,Driving Performance & Tech,Touchscreen lag and lack of tactile climate control buttons are distracting and irritating.,Negative,True,2022-02-26
+USR_1587,NISSAN,5,Range Anxiety,Battery range exceeded my expectations on long highway road trips. Easily get 300+ miles.,Positive,True,2022-05-21
+USR_1588,CHEVROLET,4,Price & Financial Value,"Saved over $2,400 in gasoline and oil changes in my first year alone! Extremely cost effective.",Positive,False,2023-08-26
+USR_1589,VOLKSWAGEN,3,Battery & Reliability,Noticed roughly 10% degradation in battery capacity within 2.5 years of ownership.,Negative,True,2024-10-25
+USR_1590,HYUNDAI,4,Battery & Reliability,Almost zero maintenance needed besides cabin air filter and wiper fluid. Very reliable.,Positive,True,2023-12-21
+USR_1591,KIA,2,Price & Financial Value,Initial purchase price is still too premium for mass adoption without government subsidies.,Negative,False,2024-04-02
+USR_1592,TESLA,5,Driving Performance & Tech,Instant torque and single-pedal driving make this the best driving vehicle I have ever owned.,Positive,False,2022-08-25
+USR_1593,VOLKSWAGEN,3,Driving Performance & Tech,"Great driving dynamics, but phone projection occasionally disconnects after firmware updates.",Neutral,False,2022-01-14
+USR_1594,NISSAN,3,Range Anxiety,"Range is acceptable in city conditions, but highway speeds drain the battery much faster than rated.",Neutral,True,2023-06-12
+USR_1595,VOLKSWAGEN,4,Driving Performance & Tech,"Great driving dynamics, but phone projection occasionally disconnects after firmware updates.",Neutral,False,2021-08-02
+USR_1596,TESLA,2,Range Anxiety,"Range is acceptable in city conditions, but highway speeds drain the battery much faster than rated.",Neutral,True,2023-12-03
+USR_1597,CHEVROLET,3,Charging Infrastructure,"Plenty of slow destination chargers, but high-speed 150kW+ chargers are lacking along state highways.",Neutral,True,2022-07-07
+USR_1598,NISSAN,4,Driving Performance & Tech,"Great driving dynamics, but phone projection occasionally disconnects after firmware updates.",Neutral,True,2022-10-08
+USR_1599,VOLKSWAGEN,3,Price & Financial Value,Initial purchase price is still too premium for mass adoption without government subsidies.,Negative,True,2023-12-21
+USR_1600,HYUNDAI,1,Range Anxiety,Constant anxiety when driving across rural corridors where no fast chargers are present.,Negative,True,2023-09-22
+USR_1601,VOLKSWAGEN,3,Battery & Reliability,Noticed roughly 10% degradation in battery capacity within 2.5 years of ownership.,Negative,True,2022-11-06
+USR_1602,CHEVROLET,5,Price & Financial Value,"Saved over $2,400 in gasoline and oil changes in my first year alone! Extremely cost effective.",Positive,True,2024-06-19
+USR_1603,KIA,1,Price & Financial Value,Insurance premiums and tire replacement costs are notably higher than my previous gas car.,Negative,False,2024-02-27
+USR_1604,FORD,3,Battery & Reliability,Almost zero maintenance needed besides cabin air filter and wiper fluid. Very reliable.,Positive,True,2023-12-09
+USR_1605,FORD,3,Battery & Reliability,"Battery health is holding up fine, but 12V auxiliary battery needed premature replacement.",Neutral,True,2023-12-22
+USR_1606,CHEVROLET,3,Price & Financial Value,"Higher upfront cost balanced out by low electricity rates, but tire wear is noticeable due to vehicle weight.",Neutral,True,2022-12-22
+USR_1607,VOLKSWAGEN,5,Battery & Reliability,"After 60,000 miles, battery degradation is under 3%. Extremely impressed with thermal management.",Positive,True,2021-06-25
+USR_1608,TESLA,4,Charging Infrastructure,Home Level 2 charging is an absolute game-changer. I wake up with a full tank every morning.,Positive,True,2022-05-04
+USR_1609,FORD,2,Price & Financial Value,"Higher upfront cost balanced out by low electricity rates, but tire wear is noticeable due to vehicle weight.",Neutral,True,2023-05-17
+USR_1610,TESLA,1,Range Anxiety,Constant anxiety when driving across rural corridors where no fast chargers are present.,Negative,True,2024-07-09
+USR_1611,HYUNDAI,5,Range Anxiety,"Range drops around 20% during freezing winter months, but still plenty for my 50-mile daily commute.",Positive,True,2021-06-08
+USR_1612,RIVIAN,2,Price & Financial Value,Insurance premiums and tire replacement costs are notably higher than my previous gas car.,Negative,True,2023-12-05
+USR_1613,HYUNDAI,5,Price & Financial Value,"Saved over $2,400 in gasoline and oil changes in my first year alone! Extremely cost effective.",Positive,True,2021-05-25
+USR_1614,KIA,4,Charging Infrastructure,Home Level 2 charging is an absolute game-changer. I wake up with a full tank every morning.,Positive,True,2021-08-23
+USR_1615,HYUNDAI,5,Charging Infrastructure,The fast charging network has expanded tremendously. Plug and charge works seamlessly.,Positive,True,2023-05-28
+USR_1616,RIVIAN,3,Driving Performance & Tech,"Whisper quiet cabin, low center of gravity, and effortless acceleration.",Positive,False,2024-07-28
+USR_1617,RIVIAN,1,Range Anxiety,Winter range penalty is severe and makes road trips stressful with unexpected detours.,Negative,True,2024-04-26
+USR_1618,HYUNDAI,3,Range Anxiety,"Range drops around 20% during freezing winter months, but still plenty for my 50-mile daily commute.",Positive,True,2023-09-23
+USR_1619,CHEVROLET,5,Range Anxiety,"Range drops around 20% during freezing winter months, but still plenty for my 50-mile daily commute.",Positive,True,2022-02-08
+USR_1620,NISSAN,5,Charging Infrastructure,The fast charging network has expanded tremendously. Plug and charge works seamlessly.,Positive,True,2021-01-13
+USR_1621,HYUNDAI,5,Driving Performance & Tech,Over-the-air software updates continue to add valuable navigation and battery preconditioning features.,Positive,True,2023-07-17
+USR_1622,TESLA,2,Battery & Reliability,Noticed roughly 10% degradation in battery capacity within 2.5 years of ownership.,Negative,True,2023-11-14
+USR_1623,FORD,5,Charging Infrastructure,The fast charging network has expanded tremendously. Plug and charge works seamlessly.,Positive,True,2023-12-24
+USR_1624,FORD,4,Price & Financial Value,"Saved over $2,400 in gasoline and oil changes in my first year alone! Extremely cost effective.",Positive,True,2022-09-22
+USR_1625,KIA,5,Charging Infrastructure,Home Level 2 charging is an absolute game-changer. I wake up with a full tank every morning.,Positive,True,2024-01-15
+USR_1626,KIA,5,Driving Performance & Tech,Over-the-air software updates continue to add valuable navigation and battery preconditioning features.,Positive,False,2024-01-01
+USR_1627,KIA,3,Charging Infrastructure,"Plenty of slow destination chargers, but high-speed 150kW+ chargers are lacking along state highways.",Neutral,True,2022-01-10
+USR_1628,NISSAN,1,Battery & Reliability,Experienced an onboard charger inverter failure that required two weeks in the shop waiting on parts.,Negative,True,2023-12-19
+USR_1629,CHEVROLET,4,Battery & Reliability,Almost zero maintenance needed besides cabin air filter and wiper fluid. Very reliable.,Positive,True,2021-09-03
+USR_1630,RIVIAN,4,Charging Infrastructure,Home Level 2 charging is an absolute game-changer. I wake up with a full tank every morning.,Positive,False,2021-04-02
+USR_1631,CHEVROLET,5,Charging Infrastructure,The fast charging network has expanded tremendously. Plug and charge works seamlessly.,Positive,True,2021-07-27
+USR_1632,TESLA,5,Battery & Reliability,Almost zero maintenance needed besides cabin air filter and wiper fluid. Very reliable.,Positive,True,2021-10-17
+USR_1633,RIVIAN,3,Charging Infrastructure,Home Level 2 charging is an absolute game-changer. I wake up with a full tank every morning.,Positive,False,2024-05-03
+USR_1634,HYUNDAI,5,Driving Performance & Tech,Over-the-air software updates continue to add valuable navigation and battery preconditioning features.,Positive,True,2022-06-16
+USR_1635,VOLKSWAGEN,3,Price & Financial Value,"Higher upfront cost balanced out by low electricity rates, but tire wear is noticeable due to vehicle weight.",Neutral,True,2022-03-14
+USR_1636,RIVIAN,1,Battery & Reliability,Experienced an onboard charger inverter failure that required two weeks in the shop waiting on parts.,Negative,True,2023-02-04
+USR_1637,CHEVROLET,2,Range Anxiety,Winter range penalty is severe and makes road trips stressful with unexpected detours.,Negative,True,2023-11-06
+USR_1638,FORD,1,Range Anxiety,Winter range penalty is severe and makes road trips stressful with unexpected detours.,Negative,True,2022-12-07
+USR_1639,VOLKSWAGEN,4,Driving Performance & Tech,"Whisper quiet cabin, low center of gravity, and effortless acceleration.",Positive,True,2022-05-12
+USR_1640,TESLA,5,Driving Performance & Tech,Over-the-air software updates continue to add valuable navigation and battery preconditioning features.,Positive,False,2021-03-07
+USR_1641,HYUNDAI,5,Driving Performance & Tech,Instant torque and single-pedal driving make this the best driving vehicle I have ever owned.,Positive,False,2024-09-03
+USR_1642,NISSAN,5,Battery & Reliability,"After 60,000 miles, battery degradation is under 3%. Extremely impressed with thermal management.",Positive,True,2022-06-24
+USR_1643,HYUNDAI,5,Battery & Reliability,"After 60,000 miles, battery degradation is under 3%. Extremely impressed with thermal management.",Positive,True,2022-10-12
+USR_1644,TESLA,5,Charging Infrastructure,The fast charging network has expanded tremendously. Plug and charge works seamlessly.,Positive,False,2022-03-07
+USR_1645,VOLKSWAGEN,4,Battery & Reliability,"Battery health is holding up fine, but 12V auxiliary battery needed premature replacement.",Neutral,True,2022-11-25
+USR_1646,NISSAN,2,Battery & Reliability,Noticed roughly 10% degradation in battery capacity within 2.5 years of ownership.,Negative,True,2022-06-16
+USR_1647,CHEVROLET,1,Battery & Reliability,Experienced an onboard charger inverter failure that required two weeks in the shop waiting on parts.,Negative,True,2021-04-02
+USR_1648,RIVIAN,3,Battery & Reliability,Noticed roughly 10% degradation in battery capacity within 2.5 years of ownership.,Negative,False,2022-11-18
+USR_1649,HYUNDAI,2,Price & Financial Value,Initial purchase price is still too premium for mass adoption without government subsidies.,Negative,True,2021-12-11

@@ -1,0 +1,55 @@
+name,address,city,state,type,power_kw,amenities,latitude,longitude
+Asansol EV Hub,G.T. Road, Asansol,West Bengal,DC Fast,120,"Parking, Restrooms, 24x7",23.6739,86.9524
+Durgapur ChargeX,City Centre, Durgapur,West Bengal,DC Fast,100,"Retail, Security",23.5204,87.3119
+Kolkata GreenStop,Salt Lake, Kolkata,West Bengal,DC Fast,120,"Retail, Restrooms",22.5726,88.3639
+Siliguri GreenLink,Hill Cart Road, Siliguri,West Bengal,Level 2,55,Parking,26.7271,88.3953
+Patna ElectroRoute,Boring Road, Patna,Bihar,Level 2 + DC,95,"Parking, Wi-Fi",25.5941,85.1376
+Ranchi PowerNest,Main Road, Ranchi,Jharkhand,Level 2 + DC,70,"Parking, Security",23.3441,85.3096
+Jamshedpur Chargedrive,Bistupur, Jamshedpur,Jharkhand,Level 2,50,"Parking, Café",22.8046,86.2029
+Bhubaneswar EV Bay,KIIT Road, Bhubaneswar,Odisha,DC Fast,110,"Parking, Lounge",20.2961,85.8245
+Cuttack ChargeCore,Madhupatna, Cuttack,Odisha,Level 2,45,Parking,20.4625,85.883
+Guwahati Green Plug,Paltan Bazaar, Guwahati,Assam,Level 2,60,"Café, Parking",26.1445,91.7362
+Shillong EV Point,Police Bazar, Shillong,Meghalaya,Level 2,40,Parking,25.5788,91.8933
+Agartala ChargeHub,Lake Chowmuhani, Agartala,Tripura,Level 2,35,Parking,23.8315,91.2868
+Imphal Electric Stop,Thangal Bazar, Imphal,Manipur,Level 2,30,Parking,24.817,93.9368
+Lucknow GridPoint,Hazratganj, Lucknow,Uttar Pradesh,DC Fast,100,"Cafe, Parking",26.8467,80.9462
+Kanpur VoltLane,Kalyanpur, Kanpur,Uttar Pradesh,Level 2,50,"Parking, Security",26.4499,80.3319
+Varanasi E-Connect,Assi Ghat, Varanasi,Uttar Pradesh,Level 2,50,"Parking, Wi-Fi",25.3176,82.9739
+Agra EV Circuit,Taj Road, Agra,Uttar Pradesh,Level 2 + DC,60,"Parking, Wi-Fi",27.1767,78.0081
+Prayagraj E-Flow,Civil Lines, Prayagraj,Uttar Pradesh,Level 2,45,Parking,25.4358,81.8463
+Delhi EV Corridor,Connaught Place, New Delhi,Delhi,Ultra Fast,200,"Retail, Lounge, 24x7",28.6139,77.209
+Noida ChargeZone,Sector 62, Noida,Uttar Pradesh,DC Fast,140,"Parking, Lounge",28.5355,77.391
+Gurugram Meridian Charge,Cyber Hub, Gurugram,Haryana,Ultra Fast,180,"Coffee, Lounge",28.4595,77.0266
+Chandigarh ChargePoint,Sector 17, Chandigarh,Chandigarh,DC Fast,100,"Parking, Security",30.7333,76.7794
+Jaipur EV Station,Malviya Nagar, Jaipur,Rajasthan,Level 2 + DC,90,"Security, Parking",26.9124,75.7873
+Jodhpur EV Point,Ratanada, Jodhpur,Rajasthan,Level 2 + DC,80,"Parking, Café",26.2389,73.0243
+Kota VoltPoint,Talwandi, Kota,Rajasthan,Level 2,50,"Parking, Restrooms",25.2138,75.8648
+Ahmedabad ChargeNest,Navrangpura, Ahmedabad,Gujarat,Level 2,50,Parking,23.0225,72.5714
+Surat City Charge,Adajan, Surat,Gujarat,Level 2 + DC,90,"Parking, Restrooms",21.1702,72.8311
+Vadodara EV Lane,Alkapuri, Vadodara,Gujarat,DC Fast,95,"Parking, Café",22.3072,73.1812
+Bhavnagar Chargelink,Sojiya Road, Bhavnagar,Gujarat,Level 2,45,Parking,21.7645,72.1519
+Indore Charge Hub,Vijay Nagar, Indore,Madhya Pradesh,Level 2 + DC,110,"Parking, Lounge",22.7196,75.8577
+Bhopal Volt Plaza,Aishbagh, Bhopal,Madhya Pradesh,Level 2 + DC,90,"Parking, Restrooms",23.2599,77.4126
+Khargone EV Stop,Bus Stand, Khargone,Madhya Pradesh,Level 2,40,Parking,21.8254,75.6036
+Bilaspur Electric Bay,City Chowk, Bilaspur,Chhattisgarh,Level 2,45,"Parking, Security",22.0797,82.1391
+Nagpur Grid Flex,Sadar, Nagpur,Maharashtra,DC Fast,130,"Security, Restrooms",21.1458,79.0882
+Nashik VoltPoint,College Road, Nashik,Maharashtra,DC Fast,100,"Parking, Restrooms",20.011,73.79
+Mumbai Shell Charge,Andheri East, Mumbai,Maharashtra,DC Fast,180,"Coffee, Security",19.076,72.8777
+Pune Smart Charge,Kalyani Nagar, Pune,Maharashtra,Level 2,60,"Parking, EV café",18.5204,73.8567
+Hyderabad Charge Plaza,Banjara Hills, Hyderabad,Telangana,Level 2 + DC,120,"Parking, Restrooms",17.4065,78.4772
+Vijayawada E-Stop,Governorpet, Vijayawada,Andhra Pradesh,Level 2 + DC,75,"Parking, Wi-Fi",16.5062,80.648
+Visakhapatnam Coastal Charge,Beach Road, Visakhapatnam,Andhra Pradesh,DC Fast,150,Seafront Parking,17.6868,83.2185
+Chennai Metro Charge,T Nagar, Chennai,Tamil Nadu,DC Fast,150,"Shopping, Restrooms",13.0827,80.2707
+Coimbatore FlowCharge,Town Hall, Coimbatore,Tamil Nadu,DC Fast,120,"Parking, Lounge",11.0168,76.9558
+Madurai EV Bay,Periyar Bus Stand, Madurai,Tamil Nadu,Level 2,45,Parking,9.9252,78.1198
+Tiruchirappalli PlugHub,Srirangam, Tiruchirappalli,Tamil Nadu,Level 2 + DC,65,"Parking, Security",10.7905,78.7047
+Bengaluru Green Hub,MG Road, Bengaluru,Karnataka,DC Fast,150,"Café, Washrooms, Wi‑Fi",12.9716,77.5946
+Mysuru Charge Grid,Mysuru Palace Road, Mysuru,Karnataka,Level 2,50,Parking,12.2958,76.6394
+Hubballi Electra Stop,Old Bus Stand, Hubballi,Karnataka,Level 2,45,"Parking, Restrooms",15.3647,75.124
+Mangaluru ChargeLine,State Bank Road, Mangaluru,Karnataka,Level 2 + DC,70,"Parking, Café",12.9141,74.856
+Kochi RapidCharge,Marine Drive, Kochi,Kerala,DC Fast,120,"Parking, Lounge",9.9312,76.2673
+Kannur ECharge,Thavakkara, Kannur,Kerala,Level 2,40,"Parking, Café",11.8745,75.3704
+Thiruvananthapuram E-Point,Technopark, Thiruvananthapuram,Kerala,DC Fast,100,"Security, Wi-Fi",8.5241,76.9366
+Goa Beach EV,Panaji, Goa,Goa,Level 2,45,"Parking, Restrooms",15.4909,73.8278
+Puducherry PlugPoint,Beach Road, Puducherry,Puducherry,Level 2,35,Parking,11.9416,79.8083
+Silchar EV Bay,Station Road, Silchar,Assam,Level 2,30,Parking,24.8275,92.7986
